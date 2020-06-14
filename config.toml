@@ -1,0 +1,45 @@
+baseURL = "https://physique-engineer.jp/"
+title = "ITエンジニアのフィジカルブログ"
+theme ="hugo-theme-basic"
+languageCode = "en-us"
+googleAnalytics = "UA-168760577-1"
+enableEmoji = true 
+copyright = "© 2020- <a href='https://twitter.com/ekuro0513'>@ekuro0513</a>."
+description = "ITエンジニアがフィジカルを鍛えるために色々やっていきます。"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[params]
+  titleEmoji = ":tada:"
+  # change this!
+  twitter = "siegerts"
+
+[Permalinks]
+  post = "post/:slug"
+
+[[params.menu]]
+  name = "blog"
+  url = "post/"
+
+[[params.menu]]
+  name = "post series"
+  url = "series/"
+  
+
+[[params.menu]]
+  name = "about"
+  url = "about/"
+  
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true

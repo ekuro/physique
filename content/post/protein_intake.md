@@ -61,8 +61,8 @@ menu: "main"
 運動強度が高くなると、タンパク質の異化が進むため、より多くのタンパク質を摂取する必要があります。  
 1991年の古い研究（※1）では、体重1kgあたり、2.2gが必要だとされていますが、2017年のメタアナリシス（※2）で、最も効果的なタンパク質の摂取量は **「一日体重1kgあたり1.6g」** （年齢による差異についてはさらなる研究が必要）であると結論付けられています。  
 
-*※1 Butterfield G (1991). Amino acids and high protein diets.*  
-*※2 A systematic review, meta-analysis and metaregression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults*
+*※1 Butterfield, G.E. (1991). Amino acids and high protein diets.*  
+*※2 [A systematic review, meta-analysis and metaregression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults](https://bjsm.bmj.com/content/bjsports/early/2018/01/18/bjsports-2017-097608.full.pdf)*
 
 ## まとめ
 

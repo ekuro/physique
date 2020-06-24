@@ -35,3 +35,25 @@ table td, table th {
   border: 1px solid #777;
   padding: 15px 20px;
 }
+
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.float-left {
+  float: left;
+}
+
+.margin-right-10 {
+  margin-right: 10px;
+}
+
+.text-right {
+  text-align: right;
+}

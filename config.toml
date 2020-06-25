@@ -4,7 +4,7 @@ theme ="hugo-theme-basic"
 languageCode = "en-us"
 googleAnalytics = "UA-168760577-1"
 enableEmoji = true 
-copyright = "© 2020- <a href='https://twitter.com/ekuro0513'>@ekuro0513</a>."
+copyright = "© 2020- <a href='https://twitter.com/ekuro096'>@ekuro096</a>."
 description = "ITエンジニアがフィジカルを鍛えるために色々やっていきます。"
 
 [taxonomies]
@@ -13,9 +13,9 @@ description = "ITエンジニアがフィジカルを鍛えるために色々や
   tag = "tags"
 
 [params]
-  titleEmoji = ":tada:"
+  titleEmoji = ":muscle:"
   # change this!
-  twitter = "siegerts"
+  twitter = "ekuro096"
 
 [Permalinks]
   post = "post/:slug"

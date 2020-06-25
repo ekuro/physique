@@ -58,14 +58,13 @@ menu: "main"
 牛乳        | 100
 白米        | 65
 
-## オススメのプロテイン
+## オススメのEAA
 
-もちろんプロテインはアミノ酸スコアが100のものがほとんどです。  
-手っ取り早くアミノ酸を摂取するためにもプロテインはオススメです。  
+EAAはESSENTIAL AMINO ACIDSの略で必須アミノ酸のことです。  
+プロテインよりも消化が早いので、トレーニング中に飲むと効果的です。  
+消化が早い分、一気に飲むと浸透圧性の下痢になってしまうので、こまめに摂取するようにしましょう。  
 
-### WPC PURE
-
-コスパが良いプロテインです。
+### マイプロテイン Impact EAA
 
 {{< rawhtml >}}
 <!-- START MoshimoAffiliateEasyLink -->
@@ -76,47 +75,18 @@ b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
 (window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js","msmaflink");
-msmaflink({"n":"リミテスト ホエイプロテイン コーヒー 1kg WPC PURE 人工甘味料 香料 無添加 国産 国内自社工場製造","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/limitest\/cabinet","p":["\/imgrc0075849423.jpg","\/item_wpc_moet.jpg","\/07161726\/imgrc0079499125.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/limitest\/70003300\/","t":"rakuten","r_v":""},"aid":{"rakuten":"2035711","yahoo":"2036424"},"eid":"OqY6M","s":"s"});
+msmaflink({"n":"マイプロテイン Impact EAA ノンフレーバー 1kg","b":"MyProtein(マイプロテイン)","t":"MYP9058\/100\/104","d":"https:\/\/m.media-amazon.com","c_p":"","p":["\/images\/I\/31UBRJDtFiL.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B07RQRY4SR","t":"amazon","r_v":""},"aid":{"amazon":"2046917","rakuten":"2046887","yahoo":"2046919"},"eid":"ncbCM","s":"s"});
 </script>
-<div id="msmaflink-OqY6M">リンク</div>
+<div id="msmaflink-ncbCM">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
 {{< /rawhtml >}}
 
-### GOLD STANDARD
+### Optimum Nutrition, エッセンシャルアミN.O. エナジー
 
-ロイシン含有量も豊富で、味も豊富なので、飲みやすいプロテインです。  
-
-{{< rawhtml >}}
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
-(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js","msmaflink");
-msmaflink({"n":"【送料無料】[目玉]【正規代理店】ゴールドスタンダード 100％ ホエイ プロテイン ダブルリッチチョコレート 2.27kgビターな大人のチョコレート味！ プロテイン 女性 Optimum Nutrition オプティマム [Informed choice]","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/proteinusa\/cabinet\/item\/o_01","p":["\/op-05126.jpg","\/sub\/op-05126_1.jpg","\/sub\/op-05126_5.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/proteinusa\/op-02866\/","t":"rakuten","r_v":""},"aid":{"rakuten":"2035711","yahoo":"2036424"},"eid":"YU9b4","s":"s"});
-</script>
-<div id="msmaflink-YU9b4">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
-{{< /rawhtml >}}
-
-### MYPROTEIN Impact
-
-ロイシン含有量も豊富で、味も色々な種類があります。  
-定期的にセールがあるので、そのタイミングで是非お試しください。  
+[iHerbで購入](https://www.iherb.com/?rcode=SLW545)
 
 {{< rawhtml >}}
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
-(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js","msmaflink");
-msmaflink({"n":"マイプロテイン 公式 【MyProtein】　Impact　ホエイプロテイン　（チョコレートシリーズ） 1kg　約40食分【楽天海外直送】","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/myprotein\/cabinet","p":["\/it\/10530943_1kg_choc_tp.jpg","\/s\/b2_rank2.jpg","\/io\/iwp_chocolate_1_25kg.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/myprotein\/10530943_1000_chocolate\/","t":"rakuten","r_v":""},"aid":{"rakuten":"2035711","yahoo":"2036424"},"eid":"6KGat","s":"s"});
-</script>
-<div id="msmaflink-6KGat">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
+<a href="https://www.iherb.com/?rcode=SLW545" target="_blank" rel="nofollow">
+  <img width="240px" src="/img/Optimum-Nutrition-ESSENTIAL-AMIN-O-ENERGY-Orange.jpg" alt="Optimum Nutrition, エッセンシャルアミN.O. エナジー" />
+</a>
 {{< /rawhtml >}}

@@ -16,12 +16,14 @@
     <span class="f6 gray">{{ .Date.Format "January 2, 2006" }}</span>
 
       <article itemprop="articleBody" id="content" class="w-90 lh-copy">
+        {{ partial "share" . }}
         {{ if eq .Params.toc true }}
           <aside>
             {{ .TableOfContents }}
           </aside>
         {{ end }}
         {{ .Content }}
+        {{ partial "share" . }}
       </article>
 
       <!-- last modified note -->

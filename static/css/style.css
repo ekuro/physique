@@ -187,3 +187,16 @@ table td, table th {
     font-family: Verdana;
     font-weight: bold
 }
+
+.breadcrumb {
+  padding: 0;
+}
+.breadcrumb li {
+  display: inline;
+  list-style: none;
+  font-weight: 600;
+}
+.breadcrumb li:not(:last-child)::after {
+  content: '/';
+  padding: 0 0.5em;
+}

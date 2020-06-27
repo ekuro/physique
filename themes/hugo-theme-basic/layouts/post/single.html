@@ -8,6 +8,12 @@
 
   <span class="b">/ </span>
   <a href="{{ .Site.BaseURL  }}" class="b bb bw1 pb1 no-underline black">{{ .Site.Title }}</a>
+  {{ with .Params.categories }}
+  {{ range . }}
+  <span class="b">/ </span>
+  <a href="/categories/{{ . }}/" class="b bb bw1 pb1 no-underline black">{{ . }}</a>
+  {{ end }}
+  {{ end }}
   <span class="b"> / </span>
   <a href="/post" class="b bb bw1 pb1 no-underline black">blog</a>
 

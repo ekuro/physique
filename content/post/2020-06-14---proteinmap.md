@@ -1,6 +1,7 @@
 ---
 title: "コスパの良いプロテインの選び方を分かりやすく解説"
 description: "プロテインを飲んではいるけど、「このプロテインでいいんだろうか。」「プロテイン代が結構かさむので節約したい。」と思うことはありませんか？そんな方に向けて、プロテインを選ぶ時の基準や、おすすめのプロテインについて解説しました。"
+thumbnail: '/img/protein-positioning-map.png'
 date: 2020-06-14T15:45:44+09:00
 slug: protein-positioning-map
 draft: false

@@ -149,7 +149,7 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 
 **GOLD STANDARD**は、大量買いができるので価格がそれなりに安い上に、ロイシン含有量も多いのが特徴です。  
 {{< rawhtml >}}
-GOLD STANDARDは「<a href="https://www.iherb.com/?rcode=SLW545" target="_blank" rel="nofollow">iHerb（アイハーブ）</a>」が最も安く購入できると思います。
+GOLD STANDARDは「<a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Double-Rich-Chocolate-7-64-lb-3-47-kg/80024?rcode=SLW545" target="_blank" rel="nofollow">iHerb（アイハーブ）</a>」が最も安く購入できると思います。
 {{< /rawhtml >}}
 
 **WPC PURE**は、味によって価格が変わります。上記のマップはプレーンで計算したものです。  

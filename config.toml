@@ -1,11 +1,11 @@
 baseURL = "https://physique-engineer.jp/"
-title = "ITエンジニアのフィジカルブログ"
+title = "ITエンジニアの筋トレブログ"
 theme ="hugo-theme-basic"
 languageCode = "en-us"
 googleAnalytics = "UA-168760577-1"
-enableEmoji = true 
+enableEmoji = true
 copyright = "© 2020- <a href='https://twitter.com/ekuro096'>@ekuro096</a>."
-description = "ITエンジニアがフィジカルを鍛えるために色々やっていきます。"
+description = "ITエンジニアがカラダを鍛えるために科学的根拠に基づいて筋トレに関する情報を発信します。効率的にカラダを鍛えて美ボディを目指しましょう！"
 
 [taxonomies]
   category = "categories"
@@ -27,12 +27,12 @@ description = "ITエンジニアがフィジカルを鍛えるために色々や
 [[params.menu]]
   name = "post series"
   url = "series/"
-  
+
 
 [[params.menu]]
   name = "about"
   url = "about/"
-  
+
 
 [privacy]
   [privacy.googleAnalytics]

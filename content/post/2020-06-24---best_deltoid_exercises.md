@@ -5,9 +5,9 @@ date: 2020-06-24T23:00:00+09:00
 slug: best-deltoid-exercises
 draft: false
 toc: true
-tags: [ "三角筋", "トレーニング", "肩", "効率" ]
+tags: [ "三角筋", "トレーニング", "肩", "効率", "筋トレ", "メニュー" ]
 categories: [ "筋トレ" ]
-series: [ "筋トレ" ]
+series: [ "筋トレのメニュー" ]
 menu: "main"
 ---
 

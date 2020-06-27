@@ -1,98 +1,167 @@
 ---
-title: "最もコスパが良いプロテインは？"
-description: "コスパの良いプロテインを選ぶためにプロテインのポジショニングマップを作成しました。安くて質の良いプロテインを選ぶのに参考にしていただければと思います。"
+title: "コスパの良いプロテインの選び方を分かりやすく解説"
+description: "プロテインを飲んではいるけど、「このプロテインでいいんだろうか。」「プロテイン代が結構かさむので節約したい。」と思うことはありませんか？そんな方に向けて、プロテインを選ぶ時の基準や、おすすめのプロテインについて解説しました。"
 date: 2020-06-14T15:45:44+09:00
 slug: protein-positioning-map
 draft: false
 toc: true
-tags: [ "プロテイン", "選び方", "ポジショニングマップ", "コスパ" ]
-categories: [ "プロテイン", "ポジショニングマップ" ]
+tags: [ "プロテイン", "選び方", "ポジショニングマップ", "コスパ", "ホエイ", "ソイ" ]
+categories: [ "プロテイン" ]
 series: [ "プロテインの選び方" ]
 menu: "main"
 ---
 
-今回は、**「タンパク質1kgあたりの価格」** と **「ロイシン含有量」** に注目して、最もコスパが良いプロテインをご紹介します。  
+{{< rawhtml >}}
+<div class="flex">
+  <div class="w-25">
+    <img width="180px" src="/img/sports_protein_shaker.png" alt="プロテイン" />
+  </div>
+  <div class="w-75 pl2">
+    <b>コスパのいいプロテインを知りたい方へ。</b><br>
+    プロテインを飲んではいるけど、「このプロテインでいいんだろうか。」「せっかくなら安くて効果のあるプロテインを選びたい。」「プロテイン代が結構かさむので節約したい。」と思うことはありませんか？  
+  </div>
+</div>
+{{< /rawhtml >}}
 
-企業の宣伝力に惑わされない定量的な評価を掲載したので、是非参考にしてみてください。  
+本記事では、そんな方に向けたプロテインの選び方を解説します。
 
-*※ ロイシンは、筋タンパクの合成を促してくれるため、ロイシンの含有量をプロテインの質として評価しました。*
+私は、東工大アメフト部出身の筋トレオタクで、現在はITエンジニアが所属できるエンジニア筋トレ部の部長をしています。  
+日頃から筋トレに関する論文を読みあさっているため、科学的根拠に基づいた解説をしていければと思います。  
 
-## プロテインのポジショニングマップ
+## コスパの良いプロテインの選び方
+### 目的を明確にする
 
-見やすさのために、**「タンパク質1kgあたりの価格」** と **「ロイシン含有量」** の2軸でポジショニングマップを作成しました。  
+まずはじめに、コスパの良いプロテインを選ぶためには、**プロテインを飲む目的を明確にする**必要があります。  
+目的によって、選ぶプロテインは変わってくるので、ここは大変重要なポイントです。  
 
+筋肥大なのか、ダイエットなのか、美容目的なのか、ご自身がプロテインを飲もうとする目的を一度考えてみてください。  
+
+### 目的別のポイント
+
+目的が決まったら、目的に合ったプロテインを選別します。  
+ここでは、「筋肥大」「ダイエット」「美容」の3つの目的の場合に、どのプロテインを選ぶべきか解説します。  
+
+#### 筋肥大が目的の場合
+
+筋肥大が目的の場合は、**ホエイプロテイン**を選ぶようにしましょう。  
+ホエイプロテインには、筋タンパク質の合成を促す**ロイシンの含有量が多く含まれています**。  
+ロイシンの筋肥大への効果は様々な研究で言われています。  
+2013年のTyler A Churchward-Venneらによる研究[^1]でも、ホエイプロテインの量が少なくても十分なロイシンを摂取すれば、ホエイプロテインが多い場合と遜色のない筋肥大の効果を示すことが報告されました。  
+
+以下の表はタンパク質の種類別におけるロイシン含有量を表したものです。  
+ホエイのロイシン含有量が高くなっているのが分かると思います。  
+
+タンパク質の種類 | ロイシン含有量（%）
+-----------------|-------------------
+ホエイ           | 11.1
+カゼイン         | 10.4
+ソイ             | 8.2
+小麦             | 7.5
+卵白             | 8.9
+
+[^1]: Leucine supplementation of a low-protein mixed macronutrient beverage enhances myofibrillar protein synthesis in young men: a double-blind, randomized trial
+
+#### ダイエットが目的の場合
+
+ダイエットが目的の場合も、**ホエイプロテイン**を選ぶようにしましょう。  
+ホエイプロテインはソイやカゼインよりも空腹感を抑える効果が高いことが分かっています[^2]。  
+また、626人を対象にしたメタアナリシス[^3]でもホエイプロテインが体重・体脂肪ともに大きく減少させる効果が有ることが報告されています。  
+
+朝食に10%のタンパク質を摂取した場合の、空腹度の推移（[^2]）。ホエイが最も空腹度を抑えることができています。  
+
+{{< rawhtml >}}
+<img width="480px" src="/img/hunger-ratings.png" alt="空腹度の推移" />
+{{< /rawhtml >}}
+
+[^2]: Dose-dependent satiating effect of whey relative to casein or soy
+[^3]: New Meta-Analysis Builds on the Power of Whey Protein for Improved Body Composition
+
+#### 美容が目的の場合
+
+美容が目的の場合は、**ソイプロテイン**がオススメです。  
+ソイプロテインは、**抗酸化・抗炎症化作用が高い**ことが示唆されています。  
+
+激しい運動をすると、体内で活性酸素が発生し、身体の細胞を傷つけることが知られており、これを酸化ストレスと呼びます。  
+2004年の研究[^4]によると、運動後の血漿の抗酸化状態を調べたところソイプロテインを摂取したグループで運動後の酸化状態が軽減されたという報告がなされています。  
+
+以下は、トレーニング前後における血漿抗酸化状態を表したグラフです。  
+ソイが最も酸化状態を抑えられています。  
+
+{{< rawhtml >}}
+<img width="480px" src="/img/plasma-antioxidant-status.png" alt="トレーニング前後の血漿抗酸化状態" />
+{{< /rawhtml >}}
+
+[^4]: Soy versus whey protein bars: Effects on exercise training impact on lean body mass and antioxidant status
+
+また、ホエイプロテインでは不足しがちなアルギニンがソイプロテインには多く含まれています。  
+アルギニンはコラーゲンの原料として合成を促進します。  
+
+### 表記の見方
+
+**タンパク質含有量と必須アミノ酸の配分を確認する**ことが大切です。  
+**タンパク質の含有量**と**必須アミノ酸の配分**がその**プロテインの質**を表しています。  
+
+今回は筋力向上目的でホエイプロテインを選ぶ際の表記を見ていきます。  
+
+例えば、Optimum NutritionのGOLD STANDARDを見てみましょう。  
+
+タンパク質の含有量は商品の説明欄か、成分表を見れば大体分かるようになっています。  
+
+{{< rawhtml >}}
+<div class="flex">
+  <div class="w-25">
+    <img src="/img/gold-standard-facts.png" alt="GOLD STANDARDの成分" />
+  </div>
+  <div class="w-75 pl5">
+    GOLD STANDARDの場合、1 Scoop（31g）あたり、24gのタンパク質が含まれています。<br>
+    なので、1kgの製品を購入した場合のタンパク質の含有量は、以下の通りです。<br>
+    <b>1000 ÷ 31 × 24 ≒ 774(g)</b>
+  </div>
+</div>
+{{< /rawhtml >}}
+
+次に、ロイシン含有量を見てみましょう。  
+
+ロイシン含有量まで記載してある商品はほとんどありません。  
+BCAA（バリン・ロイシン・イソロイシン）の含有量等が記載されていることがほとんどです。  
+
+なので、Googleで **「商品名　ロイシン」** や **「商品名（英語） Leucine」** などで検索して調べます。  
+それでも分からない場合は、お問い合わせすると大体教えてくれます。
+
+GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-nutrition-100-whey" taget="_blank" rel="nofollow">こちらのサイト</a>によると、ロイシン含有量は、**1 Scoope(31g)あたり、2470mg**でした。  
+
+筋力向上目的でホエイプロテインを購入する場合は、これらの分量と実際の価格を比較して、コスパを検討する必要があります。
+
+## コスパの良いホエイプロテイン3選
+
+今回は、筋力向上を目指す人向けに、タンパク質含有量とロイシン含有量を様々なホエイプロテインで計算して、コスパをまとめてみました。  
 ![プロテインのポジショニングマップ](/img/protein-positioning-map.png)
 
-今回は、筋トレしている人をターゲットにしているため、ホエイプロテインの比較をしています。  
-他に調べて欲しいホエイプロテインがあったらお気軽にお問い合わせください。
+こちらのマップを見て分かる通り、ホエイプロテインでは、**MYPROTEIN Impact**、**GOLD STANDARD**、**WPC PURE**がオススメです。  
 
-## オススメのプロテイン
-ホエイプロテインにも種類があるので単純な比較はできませんが、**価格**と**ロイシン含有量**を比較した場合のオススメプロテインをご紹介します。  
-
-### WPC PURE
-
-WPC PUREはとにかく価格が安いのが特徴です。  
-ロイシン含有量もそれなりに高いので、とにかくコストパフォーマンスが良いです。  
-味に関しては、プレーンのみなので、初めてプロテインを飲むという方には飲みにくいと感じる場合があるかもしれません。  
-
+**MYPROTEIN Impact**は、価格の割にロイシン含有量も多いのが特徴です。  
+定期的にセールをやっている（ゾロ目の日など）ので、そのタイミングで購入すると、さらにコスパがよくなります。  
 {{< rawhtml >}}
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
-(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js","msmaflink");
-msmaflink({"n":"リミテスト ホエイプロテイン 工場直販 国産 WPC PURE 1kg プロテイン LIMITEST (プレーン, 1kg)","b":"LIMITEST","t":"","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/51jx+7HSo4L.jpg","\/51RggiKFXaL.jpg","\/51dlm+eV1wL.jpg","\/51c6YpggpJL.jpg","\/51Gc-7r6XFL.jpg","\/517XAr9oN6L.jpg","\/510HX7006bL.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B07GZFLG81","t":"amazon","r_v":""},"aid":{"amazon":"2046917","rakuten":"2046887","yahoo":"2046919"},"eid":"2ZhHF","s":"s"});
-</script>
-<div id="msmaflink-2ZhHF">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
+「<a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein-elite%2F11243021.html" rel="nofollow">公式サイト</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">」
+があるので、そこで購入するのが良いでしょう。
 {{< /rawhtml >}}
 
-### GOLD STANDARD
-
-GOLD STANDARDは有名で多くのフィジーカーに愛されています。  
-ロイシン含有量に対する価格も安く、味も豊富なことが、多くの方から愛される理由だと思います。  
-
+**GOLD STANDARD**は、大量買いができるので価格がそれなりに安い上に、ロイシン含有量も多いのが特徴です。  
 {{< rawhtml >}}
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
-(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js","msmaflink");
-msmaflink({"n":"Gold Standard 100% ホエイ プロテイン ダブルリッチチョコレート 2.27kg (5lbs) [米国メーカー正規品] [並行輸入品]","b":"GOLD STANDARD","t":"","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/41+nJqbAJML.jpg","\/51Y3D7nuNlL.jpg","\/41FdC9MIg+L.jpg","\/41SxWudr9bL.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B08B7ZYL18","t":"amazon","r_v":""},"aid":{"amazon":"2046917","rakuten":"2046887","yahoo":"2046919"},"eid":"edFT9","s":"s"});
-</script>
-<div id="msmaflink-edFT9">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
+GOLD STANDARDは「<a href="https://www.iherb.com/?rcode=SLW545" target="_blank" rel="nofollow">iHerb（アイハーブ）</a>」が最も安く購入できると思います。
 {{< /rawhtml >}}
 
-### MYPROTEIN Impact
-
-イングランドのメーカーが作っているプロテインで、ロイシン含有量がとても多いです。  
-味も飲みやすく、定期的に割引も行っているため、最もコスパの高いホエイプロテインの一つです。  
-
+**WPC PURE**は、味によって価格が変わります。上記のマップはプレーンで計算したものです。  
+プレーンはプロテインに慣れていないと飲みにくいと感じる人もいると思いますが、なんと言っても価格が安いのが魅力です。  
 {{< rawhtml >}}
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
-(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js","msmaflink");
-msmaflink({"n":"マイプロテイン Impact ホエイプロテイン　ナチュラルチョコレート　2.5kg","b":"Myprotein","t":"MYP1023\/250\/125","d":"https:\/\/m.media-amazon.com","c_p":"","p":["\/images\/I\/41JKOqGFmfL.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B00MGPV5RE","t":"amazon","r_v":""},"aid":{"amazon":"2046917","rakuten":"2046887","yahoo":"2046919"},"eid":"Kflbg","s":"s"});
-</script>
-<div id="msmaflink-Kflbg">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
+WPC PUREは「<a target="_blank" href="https://www.amazon.co.jp/gp/product/B07GZFLG81/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07GZFLG81&linkCode=as2&tag=ekuro-22&linkId=df576ada70485aacfb5a416f427d65eb" rel="nofollow">Amazon（アマゾン）</a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=ekuro-22&l=am2&o=9&a=B07GZFLG81" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />」で購入することができます。
 {{< /rawhtml >}}
 
-## まとめ
+オススメのプロテイン紹介は以上です。  
+本記事の参考論文は以下につけておきます。  
 
-プロテインに始まるサプリメントは表示が複雑で、ちゃんと記載があるものや、かなり省いて記載されているものもあります。  
-ただ安いものを選ぶだけではなく、自分の目的にあったサプリメントを選ぶことが大切です。  
-
-このブログでは初心者にも分かるように筋トレやサプリメントに関することを発信していく予定なので、興味がある方は是非ブックマークしていただけると幸いです。
+その他ご質問やご指摘がありましたら、Twitterから随時受け付けておりますので、お気軽にお申し付けください。  
+{{< rawhtml >}}
+<a href="https://twitter.com/ekuro096" target="_blank" rel="nofollow">エクロ（@ekuro096）</a>
+{{< /rawhtml >}}

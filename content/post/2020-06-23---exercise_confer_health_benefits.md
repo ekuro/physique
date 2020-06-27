@@ -7,7 +7,7 @@ draft: false
 toc: true
 tags: [ "筋トレ", "有酸素", "死亡率", "健康", "がん", "心血管疾患" ]
 categories: [ "筋トレ" ]
-series: [ "筋トレ" ]
+series: [ "筋トレの効果" ]
 menu: "main"
 ---
 

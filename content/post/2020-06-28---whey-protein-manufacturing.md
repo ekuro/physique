@@ -133,5 +133,5 @@ msmaflink({"n":"プラチナムハイドロホエイ クッキー＆クリーム
 
 その他ご質問やご指摘がありましたら、Twitterから随時受け付けておりますので、お気軽にお申し付けください。  
 {{< rawhtml >}}
-<a href="https://twitter.com/physique_engine" target="_blank" rel="nofollow">ITエンジニア筋トレ部部長（@physique_engine</a>
+<a href="https://twitter.com/physique_engine" target="_blank" rel="nofollow">ITエンジニア筋トレ部部長（@physique_engine）</a>
 {{< /rawhtml >}}

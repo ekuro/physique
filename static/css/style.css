@@ -1,102 +1,29 @@
-html {
-  font-family: sans-serif;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%
+.header .site_title_container .site_title a {
+  width: 230px;
 }
 
-body {
-  margin: 0;
-  color: #333;
+.markdown strong, .markdown b, .markdown em {
+  background-color: #fff;
 }
 
-body, p, h1, h2, h3, h4, h5, h6 {
-  font-family: Noto, Hiragino Sans,Helvetica,Arial,sans-serif;
+.markdown strong, .markdown b {
+  font-weight: bold;
 }
 
-h1 {
-  font-size: 2rem;
+.post .post_content a {
+  color: #2b88e4;
 }
 
-h2 {
-  font-size: 1.5rem;
-  line-height: 2rem;
+.post .post_content a:hover {
+  color: #295992;
 }
 
-h3 {
-  font-size: 1.17rem;
-}
-
-article {
-  line-height: 2;
-}
-
-article h2 {
-  margin-top: 3rem;
-  margin-bottom: 1.5rem;
-}
-
-article h3 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-}
-
-aside {
-  margin-bottom: 20px;
-}
-
-p {
-  display: block;
+/* .post .post_content p {
   margin-block-start: 1rem;
   margin-block-end: 1rem;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
-}
-
-#list .list {
-  margin-bottom: 10px;
-}
-
-#list .list a {
-  cursor: pointer;
-}
-
-#TableOfContents > ul {
-  font-size: smaller;
-  border-radius: 0.5em;
-  border: solid 1px lightgray;
-  padding: 0.5em 1em;
-  line-height: 2;
-}
-#TableOfContents > ul:before {
-  content: "目次";
-  font-weight: bolder;
-}
-#TableOfContents ul {
-  list-style-type: none;
-}
-#TableOfContents li {
-  padding-top: 0;
-}
-#TableOfContents li > ul {
-  padding-left: 1em;
-  width: 100%;
-}
-#TableOfContents a {
-  font-weight: normal;
-  display: block;
-  border-bottom: dashed 1px lightgray;
-}
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-table td, table th {
-  text-align: left;
-  border: 1px solid #777;
-  padding: 15px 20px;
-}
+} */
 
 .clearfix::after {
   content: "";
@@ -104,22 +31,16 @@ table td, table th {
   clear: both;
 }
 
-.inline-block {
-  display: inline-block;
-}
-
 .float-left {
   float: left;
 }
 
-.margin-right-10 {
-  margin-right: 10px;
+/** moshimo */
+.post .post_content .easyLink-info a {
+  letter-spacing: normal;
 }
 
-.text-right {
-  text-align: right;
-}
-
+/** sns */
 .sns_parent {
   text-align: left;
   margin: 10px 0px;
@@ -188,48 +109,32 @@ table td, table th {
     font-weight: bold
 }
 
-.breadcrumb {
-  padding: 0;
+/** 目次 */
+#TableOfContents {
+  margin-bottom: 30px;
 }
-.breadcrumb li {
-  display: inline;
-  list-style: none;
-  font-weight: 600;
-}
-.breadcrumb li:not(:last-child)::after {
-  content: '/';
-  padding: 0 0.5em;
-}
-
-.thumbnail {
-  background-image: url('/img/trenyan.png');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 90px;
-  height: 110px;
-}
-
-#introduction > ul {
-  border-radius: 0.5em;
-  border: solid 1px lightgray;
+#TableOfContents > ul {
+  font-size: smaller;
+  border: solid 1px #dfe2e5;
   padding: 0.5em 1em;
   line-height: 2;
-  list-style-position: inside;
 }
-
-#introduction > ul:before {
-  content: "自己紹介";
+#TableOfContents > ul:before {
+  content: "目次";
   font-weight: bolder;
 }
-
-#introduction ul {
-  list-style-type: square;
+#TableOfContents ul {
+  list-style-type: none;
 }
-#introduction li {
+#TableOfContents li {
   padding-top: 0;
 }
-#introduction li > ul {
+#TableOfContents li > ul {
   padding-left: 1em;
   width: 100%;
+}
+#TableOfContents a {
+  font-weight: normal;
+  display: block;
+  border-bottom: dashed 1px lightgray;
 }

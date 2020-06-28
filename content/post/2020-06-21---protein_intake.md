@@ -5,10 +5,8 @@ date: 2020-06-21T00:00:00+09:00
 slug: protein-intake
 draft: false
 toc: true
-tags: [ "プロテイン", "タンパク質", "摂取量" ]
-categories: [ "タンパク質" ]
-series: [ "プロテインの飲み方" ]
-menu: "main"
+tags: [ "プロテインの飲み方" ]
+keywords: [ "プロテイン", "タンパク質", "摂取量" ]
 ---
 
 ## タンパク質とは
@@ -17,12 +15,11 @@ menu: "main"
 **「もっとも大切なもの」** という意味です。  
 
 {{< rawhtml >}}
-<img width="360px" src="/img/protein_content.png" alt="タンパク質の構成量" />
+<img width="360px" src="/images/protein_content.png" alt="タンパク質の構成量" />
 {{< /rawhtml >}}
 
 人の大部分は水が占めていることは有名ですが、実は**2番目に多いのがタンパク質**です。  
 筋肉や髪・皮膚・ホルモン・免疫物質などに使われています。  
-
 タンパク質が不足すると、以下のような影響が出ます。  
 
 - 筋肉が減り疲れやすくなる
@@ -32,9 +29,10 @@ menu: "main"
 ## 日本人のタンパク質摂取量の推移
 
 大変重要なタンパク質ですが、日本人のタンパク質摂取量は年々減ってきています。  
+<br>
 
 {{< rawhtml >}}
-<img width="640px" src="/img/protein_transitive_graph.png" alt="タンパク質摂取量の平均値の年次推移" />
+<img width="640px" src="/images/protein_transitive_graph.png" alt="タンパク質摂取量の平均値の年次推移" />
 {{< /rawhtml >}}
 
 *厚労省の「国民健康・栄養調査」より*
@@ -76,6 +74,7 @@ menu: "main"
 ### WPC PURE
 
 コスパが良いプロテインです。
+<br>
 
 {{< rawhtml >}}
 <!-- START MoshimoAffiliateEasyLink -->
@@ -95,6 +94,7 @@ msmaflink({"n":"リミテスト ホエイプロテイン 工場直販 国産 WPC
 ### GOLD STANDARD
 
 ロイシン含有量も豊富で、味も豊富なので、飲みやすいプロテインです。  
+<br>
 
 {{< rawhtml >}}
 <!-- START MoshimoAffiliateEasyLink -->
@@ -115,6 +115,7 @@ msmaflink({"n":"Gold Standard 100% ホエイ プロテイン ダブルリッチ�
 
 ロイシン含有量も豊富で、味も色々な種類があります。  
 定期的にセールがあるので、そのタイミングで是非お試しください。  
+<br>
 
 {{< rawhtml >}}
 <!-- START MoshimoAffiliateEasyLink -->

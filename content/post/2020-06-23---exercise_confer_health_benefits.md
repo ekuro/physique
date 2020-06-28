@@ -5,15 +5,14 @@ date: 2020-06-23T22:00:00+09:00
 slug: exercise-confer-health-benefits
 draft: false
 toc: true
-tags: [ "筋トレ", "有酸素", "死亡率", "健康", "がん", "心血管疾患" ]
-categories: [ "筋トレ" ]
-series: [ "筋トレの効果" ]
-menu: "main"
+tags: [ "筋トレの効果" ]
+keywords: [ "筋トレ", "有酸素", "死亡率", "健康", "がん", "心血管疾患" ]
 ---
 
 2017年に、30歳以上のイギリスとスコットランド人8万人を対象にした研究結果が発表されました。  
-
+<br>
 それは、**週2以上の筋トレであらゆる病気の死亡率が23%減少し、がんによる死亡率も31%減少する** というものです。
+<br>
 
 [Does Strength-Promoting Exercise Confer Unique Health Benefits? A Pooled Analysis of Data on 11 Population Cohorts With All-Cause, Cancer, and Cardiovascular Mortality Endpoints](https://academic.oup.com/aje/article/187/5/1102/4582884)
 
@@ -21,9 +20,10 @@ menu: "main"
 
 以下の図は、あらゆる病気に対して筋トレがどの程度効果があるのかを示した図になります。  
 下に行くほど、病気になる確率が低いことを表しています。  
+<br>
 
 {{< rawhtml >}}
-<img width="480px" src="/img/spe-and-all-cause.png" alt="筋トレと病気の関係" />
+<img width="480px" src="/images/spe-and-all-cause.png" alt="筋トレと病気の関係" />
 {{< /rawhtml >}}
 
 以下の4つのグループに分けて計測しています。
@@ -39,12 +39,15 @@ menu: "main"
 ## 有酸素と筋力向上トレの比較
 
 また、有酸素トレと筋力向上を目的としたトレを比較すると、以下の研究結果が得られました。  
+<br>
 
 {{< rawhtml >}}
-<img width="260px" src="/img/aero-spe-all-cause.png" alt="有酸素・筋トレと病気の関係" />
-<img width="260px" src="/img/aero-spe-cardiovascular-disease.png" alt="有酸素・筋トレと心血管疾患の関係" />
-<img width="260px" src="/img/aero-spe-cancer.png" alt="有酸素・筋トレとがんの関係" />
+<img width="260px" src="/images/aero-spe-all-cause.png" alt="有酸素・筋トレと病気の関係" />
+<img width="260px" src="/images/aero-spe-cardiovascular-disease.png" alt="有酸素・筋トレと心血管疾患の関係" />
+<img width="260px" src="/images/aero-spe-cancer.png" alt="有酸素・筋トレとがんの関係" />
 {{< /rawhtml >}}
+
+<br>
 
 A) すべての病気に対する影響  
 B) 心血管疾患に対する影響  

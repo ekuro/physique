@@ -1,45 +1,70 @@
 baseURL = "https://physique-engineer.jp/"
+languageCode = "en"
+defaultContentLanguage = "en"
 title = "ITエンジニアの筋トレブログ"
-theme ="hugo-theme-basic"
-languageCode = "en-us"
-googleAnalytics = "UA-168760577-1"
+theme = "zozo"
+hasCJKLanguage = true                  # has chinese/japanese/korean ?  # 自动检测是否包含 中文\日文\韩文
+summaryLength = 100
+paginate = 4                           # shows the number of articles  # 首页显示文章数量
 enableEmoji = true
-copyright = "© 2020- <a href='https://twitter.com/physique_engine'>@physique_engine</a>."
-description = "ITエンジニアがカラダを鍛えるために科学的根拠に基づいて筋トレに関する情報を発信します。効率的にカラダを鍛えて美ボディを目指しましょう！"
+googleAnalytics = "UA-168760577-1"     # your google analytics id
+disqusShortname = ""                   # your discuss shortname
 
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+pygmentscodefencesguesssyntax = true
+
+[author]                               # essential                     # 必需
+  name = "ekuro"
+
+[blackfriday]
+  smartypants = false
+
+[[menu.main]]                          # config your menu  # 配置菜单
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+[[menu.main]]
+  name = "Archive"
+  weight = 20
+  identifier = "archive"
+  url = "/post/"
+[[menu.main]]
+  name = "Tags"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
+[[menu.main]]
+  name = "About"
+  weight = 40
+  identifier = "about"
+  url = "/about/"
 
 [params]
-  titleEmoji = ":muscle:"
-  # change this!
-  twitter = "physique_engine"
+  subTitle = "ITエンジニア筋トレ部部長による筋トレ解説ブログ"                                       # site's subTitle  # 网站二级标题
+  footerSlogan = "For all physiquer"                                   # site's footer slogan  # 网站页脚标语
+  keywords = ["筋トレ","プロテイン"]                                  # site's keywords  # 网站关键字
+  description = "ITエンジニアがカラダを鍛えるために科学的根拠に基づいて筋トレに関する情報を発信します。効率的にカラダを鍛えて美ボディを目指しましょう！"
+  enableMathJax = true                                                 # enable mathjax  # 是否使用mathjax（数学公式）
+  enableSummary = true                                                 # display the article summary  # 是否显示文章摘要
+  mainSections = ["posts","post"]
 
-[Permalinks]
-  post = "post/:slug"
+# Valine.
+# You can get your appid and appkey from https://leancloud.cn
+# more info please open https://valine.js.org
+[params.valine]
+  enable = false
+  appId = ""
+  appKey = ""
+  placeholder = " "
+  visitor = true
 
-[[params.menu]]
-  name = "blog"
-  url = "post/"
+# Your socail's url
+[social]
+  twitter = "https://twitter.com/physique_engine"
 
-[[params.menu]]
-  name = "post series"
-  url = "series/"
-
-
-[[params.menu]]
-  name = "about"
-  url = "about/"
-
-
-[privacy]
-  [privacy.googleAnalytics]
-    anonymizeIP = true
-    respectDoNotTrack = true
-    useSessionStorage = true
-  [privacy.twitter]
-    enableDNT = true
-  [privacy.youtube]
-    privacyEnhanced = true
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true

@@ -1,0 +1,235 @@
+/* html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%
+}
+
+body {
+  margin: 0;
+  color: #333;
+}
+
+body, p, h1, h2, h3, h4, h5, h6 {
+  font-family: Noto, Hiragino Sans,Helvetica,Arial,sans-serif;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+h3 {
+  font-size: 1.17rem;
+}
+
+article {
+  line-height: 2;
+}
+
+article h2 {
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+article h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+aside {
+  margin-bottom: 20px;
+}
+
+p {
+  display: block;
+  margin-block-start: 1rem;
+  margin-block-end: 1rem;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+#list .list {
+  margin-bottom: 10px;
+}
+
+#list .list a {
+  cursor: pointer;
+}
+
+#TableOfContents > ul {
+  font-size: smaller;
+  border-radius: 0.5em;
+  border: solid 1px lightgray;
+  padding: 0.5em 1em;
+  line-height: 2;
+}
+#TableOfContents > ul:before {
+  content: "目次";
+  font-weight: bolder;
+}
+#TableOfContents ul {
+  list-style-type: none;
+}
+#TableOfContents li {
+  padding-top: 0;
+}
+#TableOfContents li > ul {
+  padding-left: 1em;
+  width: 100%;
+}
+#TableOfContents a {
+  font-weight: normal;
+  display: block;
+  border-bottom: dashed 1px lightgray;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table td, table th {
+  text-align: left;
+  border: 1px solid #777;
+  padding: 15px 20px;
+}
+
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.float-left {
+  float: left;
+}
+
+.margin-right-10 {
+  margin-right: 10px;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.sns_parent {
+  text-align: left;
+  margin: 10px 0px;
+}
+
+.sns_section {
+  display: inline-block;
+  text-align: left;
+}
+.sns_button {
+  float: left;
+  border: solid 1px lightgray;
+  border-radius: 3px;
+}
+.sns_button a {
+  display: table-cell;
+  width: 44px;
+  height: 44px;
+  color: #42464c;
+  text-align: center;
+  vertical-align: middle;
+  -moz-transition: all 280ms ease;
+  -o-transition: all 280ms ease;
+  -webkit-transition: all 280ms ease;
+  transition: all 280ms ease;
+}
+.sns_button i {
+  font-size: 20px;
+  vertical-align: middle;
+}
+.sns_button:hover {
+  box-shadow: inset 0 0 0 22px #eaeaea;
+}
+
+.sns_button + .sns_button {
+  margin: 0 0 0 12px;
+}
+
+.twitter:hover a {
+  color: #1B95E0;
+}
+
+.facebook:hover a {
+  color: #3B5999;
+}
+
+.google:hover a {
+  color: #dd4b39;
+}
+
+.instagram:hover a {
+  color: #2b5c84;
+}
+
+.pocket:hover a {
+  color: #EE4056;
+}
+
+.hatena:hover a {
+  color: #4BA3D9;
+}
+
+.fa-hatena:before {
+    content: "B!";
+    font-family: Verdana;
+    font-weight: bold
+}
+
+.breadcrumb {
+  padding: 0;
+}
+.breadcrumb li {
+  display: inline;
+  list-style: none;
+  font-weight: 600;
+}
+.breadcrumb li:not(:last-child)::after {
+  content: '/';
+  padding: 0 0.5em;
+}
+
+.thumbnail {
+  background-image: url('/img/trenyan.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 90px;
+  height: 110px;
+}
+
+#introduction > ul {
+  border-radius: 0.5em;
+  border: solid 1px lightgray;
+  padding: 0.5em 1em;
+  line-height: 2;
+  list-style-position: inside;
+}
+
+#introduction > ul:before {
+  content: "自己紹介";
+  font-weight: bolder;
+}
+
+#introduction ul {
+  list-style-type: square;
+}
+#introduction li {
+  padding-top: 0;
+}
+#introduction li > ul {
+  padding-left: 1em;
+  width: 100%;
+} */

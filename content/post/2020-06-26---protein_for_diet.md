@@ -5,8 +5,6 @@ date: 2020-06-26T21:44:48+09:00
 slug: protein-for-diet
 draft: true
 toc: true
-tags: [ "プロテイン", "選び方", "ダイエット" ]
-categories: [ "プロテイン" ]
-series: [ "プロテインの選び方" ]
-menu: "main"
+tags: [ "プロテインの選び方" ]
+keywords: [ "プロテイン", "選び方", "ダイエット" ]
 ---

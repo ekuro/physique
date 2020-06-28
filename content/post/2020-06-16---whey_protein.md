@@ -5,21 +5,19 @@ date: 2020-06-16T15:00:00+09:00
 slug: whey-protein
 draft: false
 toc: true
-tags: [ "プロテイン", "ホエイ", "比較" ]
-categories: [ "プロテイン" ]
-series: [ "プロテインの選び方" ]
-menu: "main"
+tags: [ "プロテインの選び方" ]
+keywords: [ "プロテイン", "ホエイ", "比較" ]
 ---
 
 なんとなく勧められるがままにホエイプロテインを飲んでいる方も多いと思います。  
-
+<br>
 今回はそんな方のためにホエイプロテインの特徴や他のプロテインとの比較を分かりやすく解説します。  
-
-![プロテインシェイカー](/img/sports_protein_shaker.png)
+<br>
+![プロテインシェイカー](/images/sports_protein_shaker.png)
 
 ## プロテインの種類
 プロテインにはホエイ・ソイ・カゼインというプロテインがあります（他にもありますが、有名所としてこの3つを抑えておけば大丈夫でしょう）。  
-
+<br>
 簡単に特徴を説明すると以下の通りです。  
 
 ### ホエイプロテイン
@@ -39,25 +37,25 @@ menu: "main"
 以下のグラフが示すように、ホエイプロテインは最初の3時間でより強い筋タンパク質合成率を示します。  
 一方でカゼインプロテインはその後の3時間でより強力な合成率を示しました。  
 参照論文には記載がありませんでしたが、ソイはホエイとカゼインのちょうど中間くらいの性質を示します。  
-
-![筋タンパク質の合成率](/img/muscle_protein_synthesis.jpg)
+<br>
+![筋タンパク質の合成率](/images/muscle_protein_synthesis.jpg)
 *Whey and casein labeled with L-[1-13C]leucine and muscle protein synthesis: Effect of resistance exercise and protein ingestion*
 
 ## プロテイン毎の成分比較
 
 以下の表は[５大タンパク質の違い](https://www.morinaga.co.jp/protein/columns/detail/?id=15&category=health)を参照させていただきました。  
 こちらを見ても分かる通り、ホエイは筋タンパクの合成を促してくれるロイシンが豊富であることが分かると思います。  
-
-![ロイシン含有量の比較](/img/protein_leucine_comparison.jpg)
+<br>
+![ロイシン含有量の比較](/images/protein_leucine_comparison.jpg)
 
 ## ホエイプロテインの種類
 
-![ホエイプロテイの作り方](/img/how_to_make_whey_protein.png)
-
+![ホエイプロテイの作り方](/images/how_to_make_whey_protein.png)
+<br>
 ホエイプロテインには製法による違いで、**WPC**と**WPI**という2種類のプロテインが存在します。  
 図に示した通り、どちらも原料は牛乳になります。  
 比較すると以下のような違いがあります。  
-
+<br>
 
 WPC（Whey Protein Concentrate） | WPI（Whey Protein Isolate）
 --------------------------------|----------------------------
@@ -78,7 +76,7 @@ WPC（Whey Protein Concentrate） | WPI（Whey Protein Isolate）
 
 コスパの良いWPCプロテインです。  
 味はプレーンのみです。  
-
+<br>
 {{< rawhtml >}}
 <!-- START MoshimoAffiliateEasyLink -->
 <script type="text/javascript">
@@ -88,9 +86,9 @@ b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
 (window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js","msmaflink");
-msmaflink({"n":"ホエイプロテイン WPC プレーン 1kg 人工甘味料 無添加 プロテイン コンセントレート の ホエイプロテイン100 ！ 女性 にもおすすめ nichie ニチエー","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/collagenkirei\/cabinet","p":["\/cart\/wpc-02.jpg","\/nakami\/wpc-01_1.jpg","\/item_page\/wpc_2.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/collagenkirei\/wpc-02\/","t":"rakuten","r_v":""},"aid":{"rakuten":"2035711","yahoo":"2036424"},"eid":"oas2l","s":"s"});
+msmaflink({"n":"nichie ホエイプロテイン WPC 無添加 アメリカ産 プレーン味 1kg","b":"ニチエー（nichie）","t":"wpc-01","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/41lHLyLBr7L.jpg","\/51aMC+elbtL.jpg","\/51dhQuN66ML.jpg","\/617f9Utn+1L.jpg","\/510xGXhnCLL.jpg","\/515BNX7vymL.jpg","\/51hBZnRTXRL.jpg","\/51eFTZn2k8L.jpg","\/413+03w9+5L.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B00EUV8WIM","t":"amazon","r_v":""},"aid":{"amazon":"2046917","rakuten":"2046887","yahoo":"2046919"},"eid":"oOsQz","s":"s"});
 </script>
-<div id="msmaflink-oas2l">リンク</div>
+<div id="msmaflink-oOsQz">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
 {{< /rawhtml >}}
 
@@ -98,7 +96,7 @@ msmaflink({"n":"ホエイプロテイン WPC プレーン 1kg 人工甘味料 �
 
 こちらも同じくコスパの良いWPCプロテインです。  
 味はプレーンのみです。  
-
+<br>
 {{< rawhtml >}}
 <!-- START MoshimoAffiliateEasyLink -->
 <script type="text/javascript">
@@ -119,7 +117,7 @@ msmaflink({"n":"リミテスト ホエイプロテイン 工場直販 国産 WPC
 WPIとWPCを混合させたプロテインです。  
 ロイシン含有量も豊富です。  
 味も豊富なので、飲みやすいプロテインです。  
-
+<br>
 {{< rawhtml >}}
 <!-- START MoshimoAffiliateEasyLink -->
 <script type="text/javascript">
@@ -140,7 +138,7 @@ msmaflink({"n":"Gold Standard 100% ホエイ プロテイン ダブルリッチ�
 WPCプロテインです。  
 ロイシン含有量も豊富で、味も色々な種類があります。  
 定期的にセールがあるので、そのタイミングで是非お試しください。  
-
+<br>
 {{< rawhtml >}}
 <!-- START MoshimoAffiliateEasyLink -->
 <script type="text/javascript">

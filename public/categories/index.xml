@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on ITエンジニアの筋トレブログ</title>
+    <link>https://physique-engineer.jp/categories/</link>
+    <description>Recent content in Categories on ITエンジニアの筋トレブログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Jun 2020 23:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://physique-engineer.jp/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>栄養</title>
+      <link>https://physique-engineer.jp/categories/%E6%A0%84%E9%A4%8A/</link>
+      <pubDate>Thu, 25 Jun 2020 23:00:00 +0900</pubDate>
+      
+      <guid>https://physique-engineer.jp/categories/%E6%A0%84%E9%A4%8A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>筋トレ</title>
+      <link>https://physique-engineer.jp/categories/%E7%AD%8B%E3%83%88%E3%83%AC/</link>
+      <pubDate>Wed, 24 Jun 2020 23:00:00 +0900</pubDate>
+      
+      <guid>https://physique-engineer.jp/categories/%E7%AD%8B%E3%83%88%E3%83%AC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>タンパク質</title>
+      <link>https://physique-engineer.jp/categories/%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://physique-engineer.jp/categories/%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>アミノ酸</title>
+      <link>https://physique-engineer.jp/categories/%E3%82%A2%E3%83%9F%E3%83%8E%E9%85%B8/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://physique-engineer.jp/categories/%E3%82%A2%E3%83%9F%E3%83%8E%E9%85%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>プロテイン</title>
+      <link>https://physique-engineer.jp/categories/%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3/</link>
+      <pubDate>Tue, 16 Jun 2020 15:00:00 +0900</pubDate>
+      
+      <guid>https://physique-engineer.jp/categories/%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

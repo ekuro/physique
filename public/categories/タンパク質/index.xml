@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>タンパク質 on ITエンジニアの筋トレブログ</title>
+    <link>https://physique-engineer.jp/categories/%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA/</link>
+    <description>Recent content in タンパク質 on ITエンジニアの筋トレブログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://physique-engineer.jp/categories/%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>プロテインの摂りすぎは体に悪いの？</title>
+      <link>https://physique-engineer.jp/post/protein-harmful-effects/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://physique-engineer.jp/post/protein-harmful-effects/</guid>
+      <description>はじめに 高タンパク質摂取による人体への影響に関しては、様々な研究がなされてきました。 中でも腎臓に与える影響は有名ですが、カルシウムを減らし、骨粗鬆症を引き起こすという人もいます。 しかし、タンパク質が人</description>
+    </item>
+    
+    <item>
+      <title>タンパク質の理想的な摂取量について解説</title>
+      <link>https://physique-engineer.jp/post/protein-intake/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://physique-engineer.jp/post/protein-intake/</guid>
+      <description>タンパク質とは タンパク質は、英語で 「プロテイン」、語源はギリシャ語で 「プロティオス」 といいます。 「もっとも大切なもの」 という意味です。 人の大部分は水が占めていることは有名ですが、実は2番目に多いのがタ</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -200,3 +200,36 @@ table td, table th {
   content: '/';
   padding: 0 0.5em;
 }
+
+.thumbnail {
+  background-image: url('/img/trenyan.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 90px;
+  height: 110px;
+}
+
+#introduction > ul {
+  border-radius: 0.5em;
+  border: solid 1px lightgray;
+  padding: 0.5em 1em;
+  line-height: 2;
+  list-style-position: inside;
+}
+
+#introduction > ul:before {
+  content: "自己紹介";
+  font-weight: bolder;
+}
+
+#introduction ul {
+  list-style-type: square;
+}
+#introduction li {
+  padding-top: 0;
+}
+#introduction li > ul {
+  padding-left: 1em;
+  width: 100%;
+}

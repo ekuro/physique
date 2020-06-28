@@ -4,7 +4,7 @@ theme ="hugo-theme-basic"
 languageCode = "en-us"
 googleAnalytics = "UA-168760577-1"
 enableEmoji = true
-copyright = "© 2020- <a href='https://twitter.com/ekuro096'>@ekuro096</a>."
+copyright = "© 2020- <a href='https://twitter.com/physique_engine'>@physique_engine</a>."
 description = "ITエンジニアがカラダを鍛えるために科学的根拠に基づいて筋トレに関する情報を発信します。効率的にカラダを鍛えて美ボディを目指しましょう！"
 
 [taxonomies]
@@ -15,7 +15,7 @@ description = "ITエンジニアがカラダを鍛えるために科学的根拠
 [params]
   titleEmoji = ":muscle:"
   # change this!
-  twitter = "ekuro096"
+  twitter = "physique_engine"
 
 [Permalinks]
   post = "post/:slug"

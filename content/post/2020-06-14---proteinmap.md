@@ -26,8 +26,16 @@ menu: "main"
 
 本記事では、そんな方に向けたプロテインの選び方を解説します。
 
-私は、東工大アメフト部出身の筋トレオタクで、現在はITエンジニアが所属できるエンジニア筋トレ部の部長をしています。  
-日頃から筋トレに関する論文を読みあさっているため、科学的根拠に基づいた解説をしていければと思います。  
+
+{{< rawhtml >}}
+<nav id="introduction">
+  <ul>
+    <li>東京工業大学アメフト部出身。トレーニング歴12年。</li>
+    <li>IT系のエンジニアを集めたエンジニア筋トレ部を設立。</li>
+    <li>エンジニア健康サミットを定期開催。</li>
+  </ul>
+</nav>
+{{< /rawhtml >}}
 
 ## コスパの良いプロテインの選び方
 ### 目的を明確にする
@@ -133,7 +141,7 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 
 筋力向上目的でホエイプロテインを購入する場合は、これらの分量と実際の価格を比較して、コスパを検討する必要があります。
 
-## コスパの良いホエイプロテイン3選
+## コスパの良いおすすめプロテイン3選
 
 今回は、筋力向上を目指す人向けに、タンパク質含有量とロイシン含有量を様々なホエイプロテインで計算して、コスパをまとめてみました。  
 ![プロテインのポジショニングマップ](/img/protein-positioning-map.png)
@@ -164,5 +172,5 @@ WPC PUREは「<a target="_blank" href="https://www.amazon.co.jp/gp/product/B07GZ
 
 その他ご質問やご指摘がありましたら、Twitterから随時受け付けておりますので、お気軽にお申し付けください。  
 {{< rawhtml >}}
-<a href="https://twitter.com/ekuro096" target="_blank" rel="nofollow">エクロ（@ekuro096）</a>
+<a href="https://twitter.com/physique_engine" target="_blank" rel="nofollow">ITエンジニア筋トレ部部長（@physique_engine</a>
 {{< /rawhtml >}}

@@ -154,7 +154,7 @@ GOLD STANDARDは「<a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Stand
 WPC PUREは「<a target="_blank" href="https://www.amazon.co.jp/gp/product/B07GZFLG81/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07GZFLG81&linkCode=as2&tag=ekuro-22&linkId=df576ada70485aacfb5a416f427d65eb" rel="nofollow">Amazon（アマゾン）</a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=ekuro-22&l=am2&o=9&a=B07GZFLG81" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />」で購入することができます。
 {{< /rawhtml >}}
 <br>
-オススメのプロテイン紹介は以上です。  
+おすすめのプロテイン紹介は以上です。  
 本記事の参考論文は以下につけておきます。  
 <br>
 その他ご質問やご指摘がありましたら、Twitterから随時受け付けておりますので、お気軽にお申し付けください。  

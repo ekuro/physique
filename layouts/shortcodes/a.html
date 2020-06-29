@@ -1,0 +1,22 @@
+{{ $href := .Get "href"}}
+{{ $target := .Get "target"  | default "_self" }}
+<div class="box">
+  {{ with .Site.GetPage $href }}
+  <a class="media clearfix" href="/post/{{ .Params.slug }}" target="{{ $target }}">
+    <figure class="media-left">
+      <div class="image" style="background-image: url('{{ .Params.thumbnail }}');">
+      </div>
+    </figure>
+    <div class="media-content">
+      <p class="title">
+        <span class="bold">{{ .Title }}</span>
+      </p>
+      <p class="description">
+        {{ if .Params.Description }}
+        {{ .Params.Description }}
+        {{ end }}
+      </p>
+    </div>
+  </div>
+  {{ end }}
+</div>

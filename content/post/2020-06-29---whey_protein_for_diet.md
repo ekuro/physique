@@ -83,9 +83,9 @@ keywords: [ "プロテイン", "ホエイ", "選び方", "ダイエット", "タ
 
 GOLD STANDARDもWPC PUREやnichieに比べると高いですが、他社比較ではお手頃です<br><br>
 もしプロテインの価格比較が気になる方がいたら、下記の記事でまとめているので、是非ご参照ください。<br><br>
-<b>
-<a href="/post/protein-positioning-map/#コスパの良いおすすめプロテイン3選">コスパの良いプロテインの選び方を分かりやすく解説</a>
-</b>
+
+{{<a href="/post/2020-06-14---proteinmap.md">}}
+
 <br>
 <br>
 

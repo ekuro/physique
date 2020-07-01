@@ -1,6 +1,7 @@
 ---
 title: "プロテインの摂りすぎは体に悪いの？"
 description: "プロテインの摂りすぎは、腎臓に悪影響を与えると言われてきました。しかし最新の研究結果で、タンパク質の食物源による影響が示唆されています。"
+thumbnail: '/images/ASN.2016030248f2.jpg'
 date: 2020-06-22T00:00:00+09:00
 slug: protein-harmful-effects
 draft: false

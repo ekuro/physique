@@ -1,7 +1,7 @@
 ---
 title: "プロテインの効果的な飲み方・摂取量・タイミングを徹底解説。"
 description: "プロテインを買ったものの、「どのくらい飲めば効果的なんだろう？」「飲みすぎると身体に悪いんじゃないか」とお悩みではありませんか？それらの不安をエビデンスを元に徹底解説しました。これからプロテインに挑戦する方もすでに飲んでいる方も是非記事をご覧ください。"
-thumbnail: '/images/whey-protein-for-diet-2.jpg'
+thumbnail: '/images/japanese-protein-intake-history.png'
 date: 2020-07-01T20:00:00+09:00
 slug: how-much-protein-do-you-need
 draft: false

@@ -57,77 +57,21 @@ keywords: [ "プロテイン", "タンパク質", "摂取量" ]
 ### 運動をしている場合
 
 運動強度が高くなると、タンパク質の異化が進むため、より多くのタンパク質を摂取する必要があります。  
-1991年の古い研究（※1）では、体重1kgあたり、2.2gが必要だとされていますが、2017年のメタアナリシス（※2）で、最も効果的なタンパク質の摂取量は **「一日体重1kgあたり1.6g」** （年齢による差異についてはさらなる研究が必要）であると結論付けられています。  
+1991年の古い研究[^1]では、体重1kgあたり、2.2gが必要だとされていますが、2017年のメタアナリシス[^2]で、筋肥大に影響があるタンパク質摂取量は<b>「一日体重1kgあたり1.62g」</b>（年齢による差異についてはさらなる研究が必要）までであると結論付けられています。  
+一方で、同論文内で、筋力アップの効果を最大化したいなら<b>「一日体重1kgあたり2.2g」</b>のタンパク質を摂取した方がいいかもしれないとの言及もあるため、ご自身の体質に合わせて、<b>「1.6g ~ 2.2g」</b>の範囲内で摂取してみるのが良いでしょう。  
 
-*※1 Butterfield, G.E. (1991). Amino acids and high protein diets.*  
-*※2 [A systematic review, meta-analysis and metaregression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults](https://bjsm.bmj.com/content/bjsports/early/2018/01/18/bjsports-2017-097608.full.pdf)*
+[^1]: Butterfield, G.E. (1991). Amino acids and high protein diets.<br>
+[^2]: A systematic review, meta-analysis and metaregression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults
 
 ## まとめ
 
-タンパク質は大変重要な栄養素であるがゆえに、古い研究結果やデタラメな情報が拡散されてしまい、実際のところどのくらい摂取すればいいのかが見えにくくなってしまっているように感じます。  
-科学的に正しい情報を元に各自が栄養バランスを整えるキッカケとなれば幸いです。
-
-## オススメのプロテイン
-
-毎度毎度のオススメのプロテインコーナーですm(_ _)m
-
-### WPC PURE
-
-コスパが良いプロテインです。
+タンパク質の摂取量に関しては最近も多くの論文が発表されています。  
+新しい情報が発表されたら記事にしていきますので、是非参考にしてみてください。  
 <br>
+{{<a href="/post/2020-06-14---proteinmap.md">}}  
 
-{{< rawhtml >}}
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
-(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js","msmaflink");
-msmaflink({"n":"リミテスト ホエイプロテイン 工場直販 国産 WPC PURE 1kg プロテイン LIMITEST (プレーン, 1kg)","b":"LIMITEST","t":"","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/51jx+7HSo4L.jpg","\/51RggiKFXaL.jpg","\/51dlm+eV1wL.jpg","\/51c6YpggpJL.jpg","\/51Gc-7r6XFL.jpg","\/517XAr9oN6L.jpg","\/510HX7006bL.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B07GZFLG81","t":"amazon","r_v":""},"aid":{"amazon":"2046917","rakuten":"2046887","yahoo":"2046919"},"eid":"2ZhHF","s":"s"});
-</script>
-<div id="msmaflink-2ZhHF">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
-{{< /rawhtml >}}
-
-### GOLD STANDARD
-
-ロイシン含有量も豊富で、味も豊富なので、飲みやすいプロテインです。  
 <br>
-
-{{< rawhtml >}}
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
-(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js","msmaflink");
-msmaflink({"n":"Gold Standard 100% ホエイ プロテイン ダブルリッチチョコレート 2.27kg (5lbs) [米国メーカー正規品] [並行輸入品]","b":"GOLD STANDARD","t":"","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/41+nJqbAJML.jpg","\/51Y3D7nuNlL.jpg","\/41FdC9MIg+L.jpg","\/41SxWudr9bL.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B08B7ZYL18","t":"amazon","r_v":""},"aid":{"amazon":"2046917","rakuten":"2046887","yahoo":"2046919"},"eid":"edFT9","s":"s"});
-</script>
-<div id="msmaflink-edFT9">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
-{{< /rawhtml >}}
-
-### MYPROTEIN Impact
-
-ロイシン含有量も豊富で、味も色々な種類があります。  
-定期的にセールがあるので、そのタイミングで是非お試しください。  
+本記事の参考論文は以下につけておきます。<br>
+その他ご質問やご指摘がありましたら、Twitterから随時受け付けておりますので、お気軽にお申し付けください。<br>
 <br>
-
-{{< rawhtml >}}
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
-(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js","msmaflink");
-msmaflink({"n":"マイプロテイン Impact ホエイプロテイン　ナチュラルチョコレート　2.5kg","b":"Myprotein","t":"MYP1023\/250\/125","d":"https:\/\/m.media-amazon.com","c_p":"","p":["\/images\/I\/41JKOqGFmfL.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B00MGPV5RE","t":"amazon","r_v":""},"aid":{"amazon":"2046917","rakuten":"2046887","yahoo":"2046919"},"eid":"Kflbg","s":"s"});
-</script>
-<div id="msmaflink-Kflbg">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
-{{< /rawhtml >}}
+<a href="https://twitter.com/physique_engine" target="_blank" rel="nofollow">ITエンジニア筋トレ部部長（@physique_engine）</a>

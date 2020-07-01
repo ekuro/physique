@@ -96,7 +96,7 @@ keywords: [ "プロテイン", "選び方", "ポジショニングマップ", "�
 <br>
 今回は筋力向上目的でホエイプロテインを選ぶ際の表記を見ていきます。  
 <br>
-例えば、**Optimum NutritionのGOLD STANDARD**を見てみましょう。  
+例えば、Optimum Nutritionの<b>「<a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Double-Rich-Chocolate-5-lbs-2-27-kg/27509?rcode=SLW545" target="_blank" rel="nofollow">GOLD STANDARD</a>」</b>を見てみましょう。  
 <br>
 タンパク質の含有量は商品の説明欄か、成分表を見れば大体分かるようになっています。  
 <br>
@@ -145,7 +145,7 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 <br>
 **GOLD STANDARD**は、大量買いができるので価格がそれなりに安い上に、ロイシン含有量も多いのが特徴です。  
 {{< rawhtml >}}
-GOLD STANDARDは「<a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Double-Rich-Chocolate-7-64-lb-3-47-kg/80024?rcode=SLW545" target="_blank" rel="nofollow">iHerb（アイハーブ）</a>」が最も安く購入できると思います。
+GOLD STANDARDは「<a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Double-Rich-Chocolate-5-lbs-2-27-kg/27509?rcode=SLW545" target="_blank" rel="nofollow">iHerb（アイハーブ）</a>」が最も安く購入できると思います。
 {{< /rawhtml >}}
 <br>
 **WPC PURE**は、味によって価格が変わります。上記のマップはプレーンで計算したものです。  

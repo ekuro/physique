@@ -1,6 +1,7 @@
 ---
 title: "筋トレで病気の死亡率が23%減少！？"
 description: "2017年に発表された研究によって、筋トレによって病気の死亡率が23%減少するという結果が明らかになりました。今回はその詳細について解説します。"
+thumbnail: '/images/spe-and-all-cause.png'
 date: 2020-06-23T22:00:00+09:00
 slug: exercise-confer-health-benefits
 draft: false
@@ -9,12 +10,12 @@ tags: [ "筋トレの効果" ]
 keywords: [ "筋トレ", "有酸素", "死亡率", "健康", "がん", "心血管疾患" ]
 ---
 
-2017年に、30歳以上のイギリスとスコットランド人8万人を対象にした研究結果が発表されました。  
+2017年に、30歳以上のイギリスとスコットランド人8万人を対象にした研究結果が発表されました[^1]。  
 <br>
 それは、**週2以上の筋トレであらゆる病気の死亡率が23%減少し、がんによる死亡率も31%減少する** というものです。
 <br>
 
-[Does Strength-Promoting Exercise Confer Unique Health Benefits? A Pooled Analysis of Data on 11 Population Cohorts With All-Cause, Cancer, and Cardiovascular Mortality Endpoints](https://academic.oup.com/aje/article/187/5/1102/4582884)
+[^1]: Does Strength-Promoting Exercise Confer Unique Health Benefits? A Pooled Analysis of Data on 11 Population Cohorts With All-Cause, Cancer, and Cardiovascular Mortality Endpoints
 
 ## ジムでの筋トレと自重での筋トレの比較
 

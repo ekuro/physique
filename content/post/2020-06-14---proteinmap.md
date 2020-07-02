@@ -101,18 +101,10 @@ keywords: [ "プロテイン", "選び方", "ポジショニングマップ", "�
 タンパク質の含有量は商品の説明欄か、成分表を見れば大体分かるようになっています。  
 <br>
 
-{{< rawhtml >}}
-<div class="flex">
-  <div class="w-25">
-    <img src="/images/gold-standard-facts.png" alt="GOLD STANDARDの成分" />
-  </div>
-  <div class="w-75 pl5">
-    GOLD STANDARDの場合、1 Scoop（31g）あたり、24gのタンパク質が含まれています。<br>
-    なので、1kgの製品を購入した場合のタンパク質の含有量は、以下の通りです。<br>
-    <b>1000 ÷ 31 × 24 ≒ 774(g)</b>
-  </div>
-</div>
-{{< /rawhtml >}}
+<img width="320px" src="/images/gold-standard-facts.png" alt="GOLD STANDARDの成分" /><br>
+GOLD STANDARDの場合、1 Scoop（31g）あたり、24gのタンパク質が含まれています。<br>
+なので、1kgの製品を購入した場合のタンパク質の含有量は、以下の通りです。<br>
+<b>1000 ÷ 31 × 24 ≒ 774(g)</b>
 
 <br>
 次に、ロイシン含有量を見てみましょう。  

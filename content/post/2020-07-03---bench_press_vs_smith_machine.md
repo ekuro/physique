@@ -53,7 +53,7 @@ keywords: [ "筋トレ", "メニュー", "ジム", "マシン" ]
 しかし、<b>バーベルベンチプレスを行うと三角筋中部も同時に鍛えやすい</b>という事実は、筋トレのメニューを組む際の参考にできるのではないでしょうか。
 
 ## おすすめ胸のトレーニング
-今回はベンチプレス以外の胸のトレーニングを2つご紹介します。
+今回はベンチプレス以外の胸のトレーニングを3つご紹介します。
 ### デクラインベンチプレス
 <img width="360px" src="/images/decline_bench_press.jpg" alt="デクラインベンチプレス" />
 <br>
@@ -72,6 +72,15 @@ keywords: [ "筋トレ", "メニュー", "ジム", "マシン" ]
 インクラインダンベルベンチプレスにより胸の上部の筋繊維の91%が活性化しているというデータ[^2]もあります。
 
 [^2]: <a href="https://www.musculi.com/content/articles/most-effective-exercises-per-muscle-group-using-electromyography" target="_blank">Most Effective Exercises per Muscle Group Using Electromyography</a>
+
+### ペックデックフライ
+<img width="360px" src="/images/pec_deck.jpg" alt="ペックデックフライ" />
+<br>
+ペックデックフライは<b>大胸筋の最大収縮時に最も負荷がかかる</b>トレーニングです。<br>
+実は<b>バーベルベンチプレスの98%程のEMG</b>を記録しているというデータ[^3]もあります。<br>
+しかしフォームが難しく独自のやり方になってしまっていないか注意が必要です。
+
+[^3]: <a href="https://www.acefitness.org/certifiednewsarticle/2884/ace-sponsored-research-top-3-most-effective-chest-exercises/" target="_blank">Top 3 Most Effective Chest Exercises</a>
 
 <br>
 <br>

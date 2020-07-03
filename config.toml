@@ -42,7 +42,7 @@ pygmentscodefencesguesssyntax = true
   url = "/about/"
 
 [params]
-  subTitle = "ITエンジニア筋トレ部部長による筋トレ解説ブログ"                                       # site's subTitle  # 网站二级标题
+  subTitle = "ITエンジニアが効率的に美ボディになるための筋トレブログ"                                       # site's subTitle  # 网站二级标题
   footerSlogan = "For all physiquer"                                   # site's footer slogan  # 网站页脚标语
   keywords = ["筋トレ","プロテイン"]                                  # site's keywords  # 网站关键字
   description = "ITエンジニアがカラダを鍛えるために科学的根拠に基づいて筋トレに関する情報を発信します。効率的にカラダを鍛えて美ボディを目指しましょう！"

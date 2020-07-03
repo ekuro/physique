@@ -1,7 +1,7 @@
 ---
 title: "ベンチプレス VS スミスマシン。ジムでの筋トレメニューの参考に。"
 description: "ジムでの筋トレメニューを組む時にバーベルベンチプレスにするかスミスマシンベンチプレスにするか迷うことはありませんか？それぞれのメリット・デメリットを明確にしてより効果的な筋トレを行いましょう。筋トレメニューの組み方に迷っている方は是非記事をご覧ください。"
-thumbnail: '/images/metabolic_woman.png'
+thumbnail: '/images/bench-press-vs-smith-machine.png'
 date: 2020-07-03T20:00:00+09:00
 slug: bench-press-vs-smith-machine
 draft: false

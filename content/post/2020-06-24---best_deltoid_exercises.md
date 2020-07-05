@@ -1,6 +1,7 @@
 ---
 title: "カッコいい肩を作るための三角筋の効率的な鍛え方"
 description: "三角筋はカッコいい身体を作る上で必須と言える筋肉の一つです。効率的に三角筋を鍛える方法を解説します。"
+thumbnail: '/images/45-degree-incline-row.jpg'
 date: 2020-06-24T23:00:00+09:00
 slug: best-deltoid-exercises
 draft: false

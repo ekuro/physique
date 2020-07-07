@@ -85,7 +85,7 @@ WPC・WPI・WPHをついては、<a href="https://physique-engineer.jp/post/whey
 また、筋肉をつけたい場合に、合わせて見なければいけないのが、<b>「タンパク質あたりのロイシン含有量」</b>です。<br>
 <b>ロイシンは筋タンパク質の合成を促すアミノ酸</b>で、筋肥大に大きな効果を示すことが分かっています。<br>
 先程コスパで見たホエイプロテインのタンパク質100gあたりのロイシン含有量を比較したものがこちらです（一部調査中のため未記載）。<br>
-調査した16種類のホエイプロテインの中で<b>12番目のロイシン含有量</b>となっています。<br>
+調査した17種類のホエイプロテインの中で<b>13番目のロイシン含有量</b>となっています。<br>
 <br>
 
 | ランキング | ホエイプロテイン                      | ロイシン含有量g（タンパク質100gあたり）|
@@ -99,36 +99,38 @@ WPC・WPI・WPHをついては、<a href="https://physique-engineer.jp/post/whey
 | 7          | X-PLOSION                             | 11.1g                                  |
 | 8          | MYPROTEIN Impact（WPC）               | 10.9g                                  |
 | 9          | NITRO TECH（WPI）                     | 10.66g                                 |
-| 10         | ALPRON WPC ホエイプロテイン           | 10.57g                                 |
-| 11         | nichie WPH                            | 10.4g                                  |
-| <b>12</b>         | <b>GOLD STANDARD</b>                         | <b>10.29g</b>                                 |
-| 13         | ALLWHEY Classic                       | 10.05g                                 |
-| 14         | WPC PURE                              | 9.9g                                   |
-| 15         | ビーレジェンド（WPC）                 | 8.98g                                  |
-| 16         | nichie WPC                            | 8.18g                                  |
+| 10         | GronG（WPC）                          | 10.62g                                 |
+| 11         | ALPRON WPC ホエイプロテイン           | 10.57g                                 |
+| 12         | nichie WPH                            | 10.4g                                  |
+| <b>13</b>         | <b>GOLD STANDARD</b>                         | <b>10.29g</b>                                 |
+| 14         | ALLWHEY Classic                       | 10.05g                                 |
+| 15         | WPC PURE                              | 9.9g                                   |
+| 16         | ビーレジェンド（WPC）                 | 8.98g                                  |
+| 17         | nichie WPC                            | 8.18g                                  |
 
 <br>
 こう見るとロイシン含有量は少ない用に見えますが、先程の「タンパク質あたりの価格」と合わせて<b>「ロイシン1gあたりの価格」</b>を見てみると、<b>ロイシン含有量の割に安い方である</b>ことが分かると思います。<br>
 <br>
 
-| ランキング | ホエイプロテイン                      | ロイシン含有量g（タンパク質100gあたり）|
+| ランキング | ホエイプロテイン                      | 価格（ロイシン1gあたり）|
 |------------|---------------------------------------|----------------------------------------|
 | 1          | X-PLOSION                             | 17.83円                                |
-| 2          | nichie WPC                            | 25.59円                                |
-| 3          | WPC PURE                              | 21.76円                                |
-| 4          | MYPROTEIN Impact（WPC）               | 27.06円                                |
-| 5          | nichie WPI                            | 27.92円                                |
-| 6          | GronG（WPI）                          | 28.94円                                |
-| <b>7</b>         | <b>GOLD STANDARD</b>                         | <b>29.20円</b>                                 |
-| 8          | ALLWHEY Classic                       | 31.28円                                |
-| 9          | ALPRON WPC ホエイプロテイン           | 31.66円                                |
-| 10         | nichie WPH                            | 34.44円                                |
-| 11         | VALX WHEY PROTEIN（WPI）              | 35.38円                                |
-| 12         | Champion PURE WHEY PLUS               | 38.67円                                |
-| 13         | HYDRO WHEY（WPH）                     | 45.92円                                |
-| 14         | Kentai パワーボディ100%ホエイ         | 51.35円                                |
-| 15         | NITRO TECH（WPI）                     | 64.62円                                |
-| 16         | ビーレジェンド（WPC）                 | 38.96円                                |
+| 2          | WPC PURE                              | 21.76円                                |
+| 3          | nichie WPC                            | 25.59円                                |
+| 4          | GronG（WPC）                          | 26.34円                                |
+| 5          | MYPROTEIN Impact（WPC）               | 27.06円                                |
+| 6          | nichie WPI                            | 27.92円                                |
+| 7          | GronG（WPI）                          | 28.94円                                |
+| <b>8</b>         | <b>GOLD STANDARD</b>                         | <b>29.20円</b>                                 |
+| 9          | ALLWHEY Classic                       | 31.28円                                |
+| 10         | ALPRON WPC ホエイプロテイン           | 31.66円                                |
+| 11         | nichie WPH                            | 34.44円                                |
+| 12         | VALX WHEY PROTEIN（WPI）              | 35.38円                                |
+| 13         | Champion PURE WHEY PLUS               | 38.67円                                |
+| 14         | ビーレジェンド（WPC）                 | 38.96円                                |
+| 15         | HYDRO WHEY（WPH）                     | 45.92円                                |
+| 16         | Kentai パワーボディ100%ホエイ         | 51.35円                                |
+| 17         | NITRO TECH（WPI）                     | 64.62円                                |
 
 <br>
 

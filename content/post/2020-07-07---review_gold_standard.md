@@ -33,13 +33,13 @@ keywords: [ "プロテイン", "コスパ", "レビュー", "比較" ]
 結論から先に申し上げると、ゴールドスタンダードは<b>「コスパと味のバランスがとても良いプロテイン」</b>です。<br>
 まずは、ゴールドスタンダードの基本情報について確認していきます。<br>
 
-### アメリカ産
+<h3><i class="fa fa-check"></i>アメリカ産</h3>
 ゴールドスタンダードはアメリカの人気サプリメントメーカーOptimum Nutrition社が作っているプロテインです。<br>
-### 100%ホエイプロテイン
+<h3><i class="fa fa-check"></i>100%ホエイプロテイン</h3>
 <b>WPC・WPI・WPHを混ぜた100%のホエイプロテイン</b>です。<br>
 ホエイプロテインの説明については、<a href="https://physique-engineer.jp/post/whey-protein/"><b>ホエイプロテインって何？ソイ・カゼインとの違いは？</b></a>をご確認ください。<br>
 WPC・WPI・WPHをついては、<a href="https://physique-engineer.jp/post/whey-protein-manufacturing/"><b>ホエイプロテインのコンセントレートとアイソレートって何が違うの？</b></a>をご確認ください。<br>
-### 成分
+<h3><i class="fa fa-check"></i>成分</h3>
 後述でさらに詳しく見ていきますが、1杯（30.4g）あたりの主な成分は以下の通りです。<br>
 <br>
 
@@ -52,7 +52,7 @@ WPC・WPI・WPHをついては、<a href="https://physique-engineer.jp/post/whey
 <br>
 
 ## ゴールドスタンダードのメリット
-### コスパが良い
+<h3><i class="fa fa-check"></i>コスパが良い</h3>
 ここでいうコスパとは、<b>「タンパク質あたりの価格が安いこと」</b>とします。<br>
 結論から言うと、ゴールドスタンダードのタンパク質あたりの価格は<b>「安め」</b>と言えます。<br>
 以下に、各社のプロテイン毎のタンパク質1kgあたりの価格をまとめました。<br>
@@ -84,7 +84,7 @@ WPC・WPI・WPHをついては、<a href="https://physique-engineer.jp/post/whey
 
 <br>
 
-### ロイシン含有量の割に安い
+<h3><i class="fa fa-check"></i>ロイシン含有量の割に安い</h3>
 また、筋肉をつけたい場合に、合わせて見なければいけないのが、<b>「タンパク質あたりのロイシン含有量」</b>です。<br>
 <b>ロイシンは筋タンパク質の合成を促すアミノ酸</b>で、筋肥大に大きな効果を示すことが分かっています。<br>
 先程コスパで見たホエイプロテインのタンパク質100gあたりのロイシン含有量を比較したものがこちらです（一部調査中のため未記載）。<br>
@@ -137,30 +137,32 @@ WPC・WPI・WPHをついては、<a href="https://physique-engineer.jp/post/whey
 
 <br>
 
-### 美味しい
+<h3><i class="fa fa-check"></i>美味しい</h3>
 これは主観になりますが、味が美味しいのが選ばれている大きな要因の一つとしてあると思います。<br>
 コスパと味のバランスが非常に優れたプロテインと言えるでしょう。<br>
 
-### まとめ買いができる
+<h3><i class="fa fa-check"></i>まとめ買いができる</h3>
 ゴールドスタンダードは最大4.54kgという単位で購入することができます。<br>
 1杯が30.4gなので、一袋あたり149杯分、一日3杯飲んでもおよそ50日分です。<br>
 <br>
 
 ## ゴールドスタンダードのデメリット
-### 売り切れていることが多い
+<h3><i class="fa fa-check"></i>売り切れていることが多い</h3>
 まとめ買いができると書きましたが、大量買いのサイズは売り切れになっているケースが多々あります。<br>
 人気の味によっては、より小さいサイズでも売り切れになっているので、切らしそうなときは余裕をもって購入するようにしましょう。<br>
 
-### 牛乳アレルギーの人は注意
+<h3><i class="fa fa-check"></i>牛乳アレルギーの人は注意</h3>
 説明にてWPCとWPIとWPHを混合したホエイプロテインということを書きましたが、WPCには乳糖がそれなりの割合で含まれています。なので<b>乳糖不耐性の人や牛乳でお腹を壊す人は注意</b>が必要です。<br>
 
-### スプーンが埋もれていることがある
+<h3><i class="fa fa-check"></i>スプーンが埋もれていることがある</h3>
 また、購入すると、1杯を計測できるスプーンがついてくるのですが、製品の中に入っているので大抵の場合プロテインに埋もれていて、取り出すのに一苦労します。<br>
 連続で購入する場合は、<b>スプーンだけ捨てないで取っておくこと</b>をおすすめします。<br>
 <br>
 
 ## 買うならココ！購入できる場所による価格比較
-色々なサイトでゴールドスタンダードの価格を調べて比較してみました。<br>
+やはり<b>ゴールドスタンダードを買うなら<a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Double-Rich-Chocolate-5-lbs-2-27-kg/27509?rcode=SLW545" target="_blank" rel="nofollow">iHerb</a></b>が安いです。<br>
+
+以下、いくつかのサイトでゴールドスタンダードの価格を調べて比較しました。<br>
 今回は一番人気の<b>ダブルリッチチョコレート</b>で比較をします。<br>
 Amazonは国内正規品が高かったので、米国メーカー正規品の価格を載せています。<br>
 <br>
@@ -173,25 +175,24 @@ Amazonは国内正規品が高かったので、米国メーカー正規品の�
 | Yahoo  | -       | <a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3536491&pid=886628360&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fspeedbody%2Fop-02866.html%3Fsc_i%3Dshp_pc_search_itemlist_shsrg_title" target="_blank" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3536491&pid=886628360" height="1" width="0" border="0">6,860円</a> | <a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3536491&pid=886628360&vc_url=https%3A%2F%2Fpaypaymall.yahoo.co.jp%2Fstore%2Fy-lohaco%2Fitem%2Fx374684%2F%3Fsc_i%3Dshp_pc_search_itemlist_shsrg_title" target="_blank" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3536491&pid=886628360" height="1" width="0" border="0">4,980円</a> |
 
 <br>
-やはりゴールドスタンダードを買うなら<b><a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Double-Rich-Chocolate-5-lbs-2-27-kg/27509?rcode=SLW545" target="_blank" rel="nofollow">iHerb</a>が安い</b>という結果になりました。<br>
 日本だと送料が高くついてしまうので、iHerbの方が安いですが、アメリカに住んでいる方であれば、<a href="https://www.bodybuilding.com/" target="_blank">bodybuilding.com</a>の方が安いかもしれません。<br>
 <br>
 
 ## おすすめの味
 
-### No.1 <a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Extreme-Milk-Chocolate-5-lbs-2-27-kg/27510?rcode=SLW545" target="_blank" rel="nofollow">エクストリームミルクチョコレート</a>
+<h3><i class="fa fa-check"></i>No.1 <a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Extreme-Milk-Chocolate-5-lbs-2-27-kg/27510?rcode=SLW545" target="_blank" rel="nofollow">エクストリームミルクチョコレート</a></h3>
 番外編で紹介している一番人気のダブルリッチチョコレートよりも<b>甘め</b>です。<br>
 さらに甘い系だと「クッキー&クリーム」もあります。クッキーの粒が入っているこの味も甘党にはおすすめなので、是非検討してみてください。<br>
 
-### No.2 <a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Banana-Cream-5-lbs-2-27-kg/27502?rcode=SLW545" target="_blank" rel="nofollow">バナナクリーム</a>
+<h3><i class="fa fa-check"></i>No.2 <a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Banana-Cream-5-lbs-2-27-kg/27502?rcode=SLW545" target="_blank" rel="nofollow">バナナクリーム</a></h3>
 こちらも甘めでバナナの味の再現度も高いです。<br>
 チョコ系もバナナ系も牛乳で割っても豆乳で割っても美味しく味わえるので、チョコ系とバナナ系でお好きな方をチョイスすると良いでしょう。<br>
 
-### No.3 <a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Coffee-5-lbs-2-27-kg/69588?rcode=SLW545" target="_blank" rel="nofollow">コーヒー</a>
+<h3><i class="fa fa-check"></i>No.3 <a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Coffee-5-lbs-2-27-kg/69588?rcode=SLW545" target="_blank" rel="nofollow">コーヒー</a></h3>
 甘いコーヒーとしての再現度が高くおすすめです。<br>
 水で割っても甘くて美味しいですし、牛乳で割っても飲みやすくて美味しいです。<br>
 
-### 番外編 iHerbでのレビュー数ランキング
+<h3><i class="fa fa-check"></i>番外編 iHerbでのレビュー数ランキング</h3>
 ゴールドスタンダードでの<b>iHerbのレビュー数（2020年7月）ランキング</b>は以下の通りです。<br>
 不動の<b>1位はダブルリッチチョコレート</b>でした。ゴールドスタンダードの味の中で唯一「人気商品」のラベルがついています。<br>
 甘いけど後味スッキリで、初めて買うならこれを買う人が多いように思います。<br>

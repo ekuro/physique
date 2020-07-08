@@ -30,7 +30,8 @@
     margin-bottom: 20px;
 }
 
-.markdown h3 .fa {
+.markdown h3 .fa,
+.markdown h4 .fa {
   margin-right: 5px;
   color: #20B2AA;
 }
@@ -181,6 +182,9 @@
 /** 目次 */
 #TableOfContents {
   margin-bottom: 30px;
+}
+#TableOfContents .fa {
+  display: none;
 }
 #TableOfContents > ul {
   font-size: smaller;

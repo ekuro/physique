@@ -23,19 +23,19 @@ keywords: [ "プロテイン", "選び方", "ポジショニングマップ", "�
 </ul>
 
 ## コスパの良いプロテインの選び方
-### 目的を明確にする
+### <i class="fa fa-pencil-alt"></i>目的を明確にする
 
 まずはじめに、コスパの良いプロテインを選ぶためには、**プロテインを飲む目的を明確にする**必要があります。  
 目的によって、選ぶプロテインは変わってくるので、ここは大変重要なポイントです。  
 <br>
 筋肥大なのか、ダイエットなのか、美容目的なのか、ご自身がプロテインを飲もうとする目的を一度考えてみてください。  
 
-### 目的別のポイント
+### <i class="fa fa-pencil-alt"></i>目的別のポイント
 
 目的が決まったら、目的に合ったプロテインを選別します。  
 ここでは、「筋肥大」「ダイエット」「美容」の3つの目的の場合に、どのプロテインを選ぶべきか解説します。  
 
-#### 筋肥大が目的の場合
+#### <i class="fa fa-check"></i>筋肥大が目的の場合
 
 筋肥大が目的の場合は、**ホエイプロテイン**を選ぶようにしましょう。  
 ホエイプロテインには、筋タンパク質の合成を促す**ロイシンの含有量が多く含まれています**。  
@@ -55,7 +55,7 @@ keywords: [ "プロテイン", "選び方", "ポジショニングマップ", "�
 
 [^1]: Leucine supplementation of a low-protein mixed macronutrient beverage enhances myofibrillar protein synthesis in young men: a double-blind, randomized trial
 
-#### ダイエットが目的の場合
+#### <i class="fa fa-check"></i>ダイエットが目的の場合
 
 ダイエットが目的の場合も、**ホエイプロテイン**を選ぶようにしましょう。  
 ホエイプロテインはソイやカゼインよりも空腹感を抑える効果が高いことが分かっています[^2]。  
@@ -68,7 +68,7 @@ keywords: [ "プロテイン", "選び方", "ポジショニングマップ", "�
 [^2]: Dose-dependent satiating effect of whey relative to casein or soy
 [^3]: New Meta-Analysis Builds on the Power of Whey Protein for Improved Body Composition
 
-#### 美容が目的の場合
+#### <i class="fa fa-check"></i>美容が目的の場合
 
 美容が目的の場合は、**ソイプロテイン**がオススメです。  
 ソイプロテインは、**抗酸化・抗炎症化作用が高い**ことが示唆されています。  
@@ -89,7 +89,7 @@ keywords: [ "プロテイン", "選び方", "ポジショニングマップ", "�
 また、ホエイプロテインでは不足しがちなアルギニンがソイプロテインには多く含まれています。  
 アルギニンはコラーゲンの原料として合成を促進します。  
 
-### 表記の見方
+### <i class="fa fa-pencil-alt"></i>表記の見方
 
 **タンパク質含有量と必須アミノ酸の配分を確認する**ことが大切です。  
 **タンパク質の含有量**と**必須アミノ酸の配分**がその**プロテインの質**を表しています。  
@@ -120,31 +120,121 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 <br>
 筋力向上目的でホエイプロテインを購入する場合は、これらの分量と実際の価格を比較して、コスパを検討する必要があります。
 
-## コスパの良いおすすめプロテイン3選
+## コスパの良いおすすめプロテイン
 
-今回は、筋力向上を目指す人向けに、タンパク質含有量とロイシン含有量を様々なホエイプロテインで計算して、コスパをまとめてみました。  
+### <i class="fa fa-trophy"></i>タンパク質あたりの価格ランキング
+
+タンパク質あたりの価格が最も安いのは、<a href="https://amzn.to/2Zd2PUq" target="_blank" rel="nofollow"><b>「X-PLOSION」</b></a>でした。<br>
+<br>
+
+| ランキング | ホエイプロテイン                      | 価格（タンパク質1kgあたり） |
+|------------|---------------------------------------|-----------------------------|
+| 1          | X-PLOSION                             | 1,979円（3kg購入時）        |
+| 2          | nichie WPC                            | 2,093円                     |
+| 3          | WPC PURE                              | 2,154円                     |
+| 4          | GronG（WPC）ナチュラル                | 2,797円                     |
+| 5          | MYPROTEIN Impact（WPC）               | 2,949円                     |
+| 6          | GOLD STANDARD                         | 3,005円                     |
+| 7          | ALLWHEY Classic                       | 3,144円                     |
+| 8          | nichie WPI                            | 3,211円                     |
+| 9          | ALPRON WPC ホエイプロテイン           | 3,346円                     |
+| 10         | GronG（WPI）                          | 3,360円                     |
+| 11         | ビーレジェンド（WPC）                 | 3,499円                     |
+| 12         | nichie WPH                            | 3,582円                     |
+| 13         | Champion PURE WHEY PLUS               | 4,385円                     |
+| 14         | VALX WHEY PROTEIN（WPI）              | 4,564円                     |
+| 15         | ザバス ホエイ100（WPC）               | 5,321円                     |
+| 16         | Kentai パワーボディ100%ホエイ         | 5,797円                     |
+| 17         | HYDRO WHEY（WPH）                     | 5,855円                     |
+| 18         | NITRO TECH（WPI）                     | 6,888円                     |
+| 19         | グリコ マックスロードホエイプロテイン | 7,093円                     |
+| 20         | GOLD'S GYM CFM Whey Protein           | 8,533円                     |
+
+
+### <i class="fa fa-trophy"></i>ロイシン含有量ランキング
+
+ロイシン含有量が一番多いのは、<a href="https://amzn.to/2ZK1X8I" target="_blank" rel="nofollow"><b>「VALX WHEY PROTEIN（WPI）」</b></a>でした。<br>
+<br>
+
+| ランキング | ホエイプロテイン                      | ロイシン含有量g（タンパク質100gあたり）|
+|------------|---------------------------------------|----------------------------------------|
+| 1          | VALX WHEY PROTEIN（WPI）              | 12.9g                                  |
+| 2          | HYDRO WHEY（WPH）                     | 12.75g                                 |
+| 3          | GOLD'S GYM CFM Whey Protein        | 11.83g                                 |
+| 4          | GronG（WPI）                          | 11.61g                                 |
+| 5          | nichie WPI                            | 11.5g                                  |
+| 6          | Champion PURE WHEY PLUS               | 11.34g                                 |
+| 7          | Kentai パワーボディ100%ホエイ         | 11.29g                                 |
+| 8          | X-PLOSION                             | 11.1g                                  |
+| 9          | MYPROTEIN Impact（WPC）               | 10.9g                                  |
+| 10         | NITRO TECH（WPI）                     | 10.66g                                 |
+| 11         | GronG（WPC）                          | 10.62g                                 |
+| 12         | ALPRON WPC ホエイプロテイン           | 10.57g                                 |
+| 13         | nichie WPH                            | 10.4g                                  |
+| 14         | GOLD STANDARD                         | 10.29g                                 |
+| 15         | ALLWHEY Classic                       | 10.05g                                 |
+| 16         | WPC PURE                              | 9.9g                                   |
+| 17         | ビーレジェンド（WPC）                 | 8.98g                                  |
+| 18         | nichie WPC                            | 8.18g                                  |
+
+
+### <i class="fa fa-trophy"></i>ロイシンあたりの価格ランキング
+
+ロイシンあたりの価格が最も安いのも、<a href="https://amzn.to/2Zd2PUq" target="_blank" rel="nofollow"><b>「X-PLOSION」</b></a>でした。<br>
+<br>
+
+| ランキング | ホエイプロテイン                      | 価格（ロイシン1gあたり）|
+|------------|---------------------------------------|----------------------------------------|
+| 1          | X-PLOSION                             | 17.83円                                |
+| 2          | WPC PURE                              | 21.76円                                |
+| 3          | nichie WPC                            | 25.59円                                |
+| 4          | GronG（WPC）                          | 26.34円                                |
+| 5          | MYPROTEIN Impact（WPC）               | 27.06円                                |
+| 6          | nichie WPI                            | 27.92円                                |
+| 7          | GronG（WPI）                          | 28.94円                                |
+| 8          | GOLD STANDARD                         | 29.20円                                 |
+| 9          | ALLWHEY Classic                       | 31.28円                                |
+| 10         | ALPRON WPC ホエイプロテイン           | 31.66円                                |
+| 11         | nichie WPH                            | 34.44円                                |
+| 12         | VALX WHEY PROTEIN（WPI）              | 35.38円                                |
+| 13         | Champion PURE WHEY PLUS               | 38.67円                                |
+| 14         | ビーレジェンド（WPC）                 | 38.96円                                |
+| 15         | HYDRO WHEY（WPH）                     | 45.92円                                |
+| 16         | Kentai パワーボディ100%ホエイ         | 51.35円                                |
+| 17         | NITRO TECH（WPI）                     | 64.62円                                |
+| 18         | GOLD'S GYM CFM Whey Protein         | 72.13円                                |
+
+
+
+### プロテインポジショニングマップ
+
+最後にロイシン含有量（横軸）とタンパク質あたりの価格（縦軸）にしてプロテインを並べました。
+
 ![プロテインのポジショニングマップ](/images/protein-positioning-map.png)
 
-こちらのマップを見て分かる通り、ホエイプロテインでは、**MYPROTEIN Impact**、**GOLD STANDARD**、**WPC PURE**がオススメです。  
+こちらのマップを見て分かる通り、ホエイプロテインでは、**X-PLOSION**、**MYPROTEIN Impact**、**GOLD STANDARD**、**WPC PURE**あたりがおすすめです。  
+<br>
+**X-PLOSION**は、とにかく安いのが特徴です。<br>
+味はプレーンなので、味は気にせずコストを抑えたい方におすすめです。
+「<a href="https://amzn.to/2Zd2PUq" target="_blank" rel="nofollow">Amazon（アマゾン）</a>」で購入することができます。<br>
 <br>
 **MYPROTEIN Impact**は、価格の割にロイシン含有量も多いのが特徴です。  
+味も美味しいので、初心者の方でも飲みやすいと思います。  
 定期的にセールをやっている（ゾロ目の日など）ので、そのタイミングで購入すると、さらにコスパがよくなります。  
-{{< rawhtml >}}
 「<a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein-elite%2F11243021.html" rel="nofollow">公式サイト</a>
 <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">」
 があるので、そこで購入するのが良いでしょう。
-{{< /rawhtml >}}
+<br>
 <br>
 **GOLD STANDARD**は、大量買いができるので価格がそれなりに安い上に、ロイシン含有量も多いのが特徴です。  
-{{< rawhtml >}}
-GOLD STANDARDは「<a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Double-Rich-Chocolate-5-lbs-2-27-kg/27509?rcode=SLW545" target="_blank" rel="nofollow">iHerb（アイハーブ）</a>」が最も安く購入できると思います。
-{{< /rawhtml >}}
+GOLD STANDARDも味が美味しいので、初心者の方にもおすすめです。  
+「<a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Double-Rich-Chocolate-5-lbs-2-27-kg/27509?rcode=SLW545" target="_blank" rel="nofollow">iHerb（アイハーブ）</a>」が最も安く購入できると思います。
+<br>
 <br>
 **WPC PURE**は、味によって価格が変わります。上記のマップはプレーンで計算したものです。  
 プレーンはプロテインに慣れていないと飲みにくいと感じる人もいると思いますが、なんと言っても価格が安いのが魅力です。  
-{{< rawhtml >}}
 WPC PUREは「<a target="_blank" href="https://www.amazon.co.jp/gp/product/B07GZFLG81/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07GZFLG81&linkCode=as2&tag=ekuro-22&linkId=df576ada70485aacfb5a416f427d65eb" rel="nofollow">Amazon（アマゾン）</a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=ekuro-22&l=am2&o=9&a=B07GZFLG81" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />」で購入することができます。
-{{< /rawhtml >}}
+<br>
 <br>
 おすすめのプロテイン紹介は以上です。  
 本記事の参考論文は以下につけておきます。  

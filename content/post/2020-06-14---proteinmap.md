@@ -14,13 +14,25 @@ keywords: [ "プロテイン", "選び方", "ポジショニングマップ", "�
 <b>コスパのいいプロテインを知りたい方。</b><br>
 プロテインを飲んではいるけど、「このプロテインでいいんだろうか。」「せっかくなら安くて効果のあるプロテインを選びたい。」「プロテイン代が結構かさむので節約したい。」と思うことはありませんか？<br>
 本記事では、そんな方に向けたプロテインの選び方を解説します。
+<br>
+<br>
 
 ## 筆者の紹介
-<ul>
+<ul class="focus">
   <li>東京工業大学アメフト部出身。トレーニング歴12年。</li>
   <li>IT系のエンジニアを集めたエンジニア筋トレ部を設立。</li>
   <li>エンジニア健康サミットを定期開催。</li>
 </ul>
+<br>
+
+## コスパ最強のプロテインは「X-PLOSION（エクスプロージョン）」
+
+20種類のプロテインを<b>タンパク質含有量・ロイシン含有量・価格</b>で比較したところ、<b>筋トレ・ダイエット向け</b>の<b>コスパ最強のプロテイン</b>は<a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「X-PLOSION（エクスプロージョン）」</b></a>でした。<br>
+<br>
+味も含めたバランスで考えると、<a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「MYPROTEIN（マイプロテイン）」</b></a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">や<a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Double-Rich-Chocolate-5-lbs-2-27-kg/27509?rcode=SLW545" target="_blank" rel="nofollow"><b>「GOLD STANDARD（ゴールドスタンダード）」</b></a>も大変おすすめです。<br>
+<br>
+それでは、根拠を説明する前に、目的別にプロテインを選ぶ際の見るべきポイントを説明します。<br>
+<br>
 
 ## コスパの良いプロテインの選び方
 ### <i class="fa fa-pencil-alt"></i>目的を明確にする
@@ -120,11 +132,11 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 <br>
 筋力向上目的でホエイプロテインを購入する場合は、これらの分量と実際の価格を比較して、コスパを検討する必要があります。
 
-## コスパの良いおすすめプロテイン
+## コスパの良いプロテインランキング
 
 ### <i class="fa fa-trophy"></i>タンパク質あたりの価格ランキング
 
-タンパク質あたりの価格が最も安いのは、<a href="https://amzn.to/2Zd2PUq" target="_blank" rel="nofollow"><b>「X-PLOSION」</b></a>でした。<br>
+タンパク質あたりの価格が最も安いのは、<a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「X-PLOSION」</b></a>でした。<br>
 <br>
 
 | ランキング | ホエイプロテイン                      | 価格（タンパク質1kgあたり） |
@@ -180,7 +192,7 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 
 ### <i class="fa fa-trophy"></i>ロイシンあたりの価格ランキング
 
-ロイシンあたりの価格が最も安いのも、<a href="https://amzn.to/2Zd2PUq" target="_blank" rel="nofollow"><b>「X-PLOSION」</b></a>でした。<br>
+ロイシンあたりの価格が最も安いのも、<a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「X-PLOSION」</b></a>でした。<br>
 <br>
 
 | ランキング | ホエイプロテイン                      | 価格（ロイシン1gあたり）|
@@ -204,7 +216,8 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 | 17         | NITRO TECH（WPI）                     | 64.62円                                |
 | 18         | GOLD'S GYM CFM Whey Protein         | 72.13円                                |
 
-
+<br>
+こうしてみると、すでに「X-PLOSION」の品質の高さが伺えますね。<br>
 
 ### プロテインポジショニングマップ
 
@@ -212,24 +225,26 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 
 ![プロテインのポジショニングマップ](/images/protein-positioning-map.png)
 
-こちらのマップを見て分かる通り、ホエイプロテインでは、**X-PLOSION**、**MYPROTEIN Impact**、**GOLD STANDARD**あたりがおすすめです。  
+<b>マップの右上のエリア</b>がコスパが良いエリアになります。<br>
+結果、ホエイプロテインでは、**X-PLOSION**、**MYPROTEIN Impact**、**GOLD STANDARD**あたりがコスパが良いと言えます。  
 <br>
-**X-PLOSION**は、とにかく安いのが特徴です。<br>
-味はプレーンなので、味は気にせずコストを抑えたい方におすすめです。
-<a href="https://amzn.to/2Zd2PUq" target="_blank" rel="nofollow"><b>「Amazon（アマゾン）」</b></a>で購入することができます。<br>
+#### <i class="fa fa-check"></i>X-PLOSION（エクスプロージョン）
+安さと品質の高さが特徴です。プレーン以外もありますが、コスト的にはプレーンが安いです（上記はプレーン味で計算しています）。<br>
+<a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「Amazon（アマゾン）」</b></a>で購入することができます。<br>
 <br>
-**MYPROTEIN Impact**は、価格の割にロイシン含有量も多いのが特徴です。  
-味も美味しいので、初心者の方でも飲みやすいと思います。  
+#### <i class="fa fa-check"></i>MYPROTEIN Impact（マイプロテイン インパクト）
+価格の割にロイシン含有量が多く、味も美味しいので、初心者の方でも飲みやすいのが特徴です。<br>
 定期的にセールをやっている（ゾロ目の日など）ので、そのタイミングで購入すると、さらにコスパがよくなります。  
 <a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「公式サイト」</b></a>
 <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">
 があるので、そこで購入するのが良いでしょう（はじめてMYPROTEINで購入する方は、<a href="https://www.myprotein.jp/referrals.list?applyCode=99PM-R1" target="_blank" rel="nofollow">こちら</a>から登録していただければ1,000円割引になります）。<br>
 <br>
-セールに関する情報は、<a href="/post/review-myprotein/#セールの時期">「マイプロテインのコスパを他社と徹底比較！セール時期や人気の味まで」</a>にもう少し詳しく書いてあります。
+セールや味に関する情報は、<a href="/post/review-myprotein/#セールの時期">「マイプロテインのコスパを他社と徹底比較！セール時期や人気の味まで」</a>にもう少し詳しく書いてあります。
 <br>
 <br>
-**GOLD STANDARD**は、大量買いができるので価格がそれなりに安い上に、ロイシン含有量も多いのが特徴です。  
-GOLD STANDARDも味が美味しいので、初心者の方にもおすすめです。  
+#### <i class="fa fa-check"></i>GOLD STANDARD（ゴールドスタンダード）
+まとめ買いができ、価格の割にロイシン含有量も多いのが特徴です。<br>
+また、MYPROTEINと同様に味が豊富で美味しいので、初心者の方にもおすすめです。<br>
 <a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Double-Rich-Chocolate-5-lbs-2-27-kg/27509?rcode=SLW545" target="_blank" rel="nofollow"><b>「iHerb（アイハーブ）」</b></a>が最も安く購入できると思います。
 <br>
 <br>

@@ -221,9 +221,9 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 **MYPROTEIN Impact**は、価格の割にロイシン含有量も多いのが特徴です。  
 味も美味しいので、初心者の方でも飲みやすいと思います。  
 定期的にセールをやっている（ゾロ目の日など）ので、そのタイミングで購入すると、さらにコスパがよくなります。  
-「<a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein-elite%2F11243021.html" rel="nofollow">公式サイト</a>
-<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">」
-があるので、そこで購入するのが良いでしょう。
+「<a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow">公式サイト</a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">」
+があるので、そこで購入するのが良いでしょう（はじめてMYPROTEINで購入する方は、<a href="https://www.myprotein.jp/referrals.list?applyCode=99PM-R1" target="_blank" rel="nofollow">こちら</a>から登録していただければ1,000円割引になります）。
 <br>
 <br>
 **GOLD STANDARD**は、大量買いができるので価格がそれなりに安い上に、ロイシン含有量も多いのが特徴です。  

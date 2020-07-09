@@ -33,13 +33,13 @@ keywords: [ "プロテイン", "コスパ", "レビュー", "比較" ]
 結論から先に申し上げると、ゴールドスタンダードは<b>「コスパと味のバランスがとても良いプロテイン」</b>です。<br>
 それでは、ゴールドスタンダードの基本情報について確認していきましょう。<br>
 
-<h3><i class="fa fa-check"></i>アメリカ産</h3>
+### <i class="fa fa-check"></i>アメリカ産
 ゴールドスタンダードはアメリカの人気サプリメントメーカーOptimum Nutrition社が作っているプロテインです。<br>
-<h3><i class="fa fa-check"></i>100%ホエイプロテイン</h3>
+### <i class="fa fa-check"></i>100%ホエイプロテイン
 <b>WPC・WPI・WPHを混ぜた100%のホエイプロテイン</b>です。<br>
 ホエイプロテインの説明については、<a href="https://physique-engineer.jp/post/whey-protein/"><b>ホエイプロテインって何？ソイ・カゼインとの違いは？</b></a>をご確認ください。<br>
 WPC・WPI・WPHをついては、<a href="https://physique-engineer.jp/post/whey-protein-manufacturing/"><b>ホエイプロテインのコンセントレートとアイソレートって何が違うの？</b></a>をご確認ください。<br>
-<h3><i class="fa fa-check"></i>成分</h3>
+### <i class="fa fa-check"></i>成分</h3>
 後述でさらに詳しく見ていきますが、1杯（30.4g）あたりの主な成分は以下の通りです。<br>
 <br>
 

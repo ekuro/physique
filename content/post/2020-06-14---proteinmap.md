@@ -212,28 +212,25 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 
 ![プロテインのポジショニングマップ](/images/protein-positioning-map.png)
 
-こちらのマップを見て分かる通り、ホエイプロテインでは、**X-PLOSION**、**MYPROTEIN Impact**、**GOLD STANDARD**、**WPC PURE**あたりがおすすめです。  
+こちらのマップを見て分かる通り、ホエイプロテインでは、**X-PLOSION**、**MYPROTEIN Impact**、**GOLD STANDARD**あたりがおすすめです。  
 <br>
 **X-PLOSION**は、とにかく安いのが特徴です。<br>
 味はプレーンなので、味は気にせずコストを抑えたい方におすすめです。
-「<a href="https://amzn.to/2Zd2PUq" target="_blank" rel="nofollow">Amazon（アマゾン）</a>」で購入することができます。<br>
+<a href="https://amzn.to/2Zd2PUq" target="_blank" rel="nofollow"><b>「Amazon（アマゾン）」</b></a>で購入することができます。<br>
 <br>
 **MYPROTEIN Impact**は、価格の割にロイシン含有量も多いのが特徴です。  
 味も美味しいので、初心者の方でも飲みやすいと思います。  
 定期的にセールをやっている（ゾロ目の日など）ので、そのタイミングで購入すると、さらにコスパがよくなります。  
-「<a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow">公式サイト</a>
-<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">」
-があるので、そこで購入するのが良いでしょう（はじめてMYPROTEINで購入する方は、<a href="https://www.myprotein.jp/referrals.list?applyCode=99PM-R1" target="_blank" rel="nofollow">こちら</a>から登録していただければ1,000円割引になります）。
+<a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「公式サイト」</b></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">
+があるので、そこで購入するのが良いでしょう（はじめてMYPROTEINで購入する方は、<a href="https://www.myprotein.jp/referrals.list?applyCode=99PM-R1" target="_blank" rel="nofollow">こちら</a>から登録していただければ1,000円割引になります）。<br>
+<br>
+セールに関する情報は、<a href="/post/review-myprotein/#セールの時期">「マイプロテインのコスパを他社と徹底比較！セール時期や人気の味まで」</a>にもう少し詳しく書いてあります。
 <br>
 <br>
 **GOLD STANDARD**は、大量買いができるので価格がそれなりに安い上に、ロイシン含有量も多いのが特徴です。  
 GOLD STANDARDも味が美味しいので、初心者の方にもおすすめです。  
-「<a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Double-Rich-Chocolate-5-lbs-2-27-kg/27509?rcode=SLW545" target="_blank" rel="nofollow">iHerb（アイハーブ）</a>」が最も安く購入できると思います。
-<br>
-<br>
-**WPC PURE**は、味によって価格が変わります。上記のマップはプレーンで計算したものです。  
-プレーンはプロテインに慣れていないと飲みにくいと感じる人もいると思いますが、なんと言っても価格が安いのが魅力です。  
-WPC PUREは「<a target="_blank" href="https://www.amazon.co.jp/gp/product/B07GZFLG81/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07GZFLG81&linkCode=as2&tag=ekuro-22&linkId=df576ada70485aacfb5a416f427d65eb" rel="nofollow">Amazon（アマゾン）</a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=ekuro-22&l=am2&o=9&a=B07GZFLG81" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />」で購入することができます。
+<a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Double-Rich-Chocolate-5-lbs-2-27-kg/27509?rcode=SLW545" target="_blank" rel="nofollow"><b>「iHerb（アイハーブ）」</b></a>が最も安く購入できると思います。
 <br>
 <br>
 おすすめのプロテイン紹介は以上です。  

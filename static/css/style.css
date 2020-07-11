@@ -185,6 +185,24 @@ ul.focus {
   font-size: 14px;
 }
 
+@media screen and (max-width:480px) {
+  table {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  table th, table td {
+    padding: 5px 10px;
+  }
+  .box .media figure {
+    width: 100%;
+  }
+  .box .media .media-content {
+    width: 100%;
+    padding-left: 0px;
+    margin-top: 10px;
+  }
+}
+
 /** 目次 */
 #TableOfContents {
   margin-bottom: 30px;

@@ -122,7 +122,10 @@ keywords: [ "プロテイン", "選び方", "ポジショニングマップ", "�
 GOLD STANDARDの場合、1 Scoop（31g）あたり、24gのタンパク質が含まれています。<br>
 なので、1kgの製品を購入した場合のタンパク質の含有量は、以下の通りです。<br>
 <b>1000 ÷ 31 × 24 ≒ 774(g)</b>
-
+<br>
+<br>
+タンパク質の含有量を見る場合は無水換算値かどうかも注意してみるようにしてください。<br>
+無水換算値に関しては、「<a href="/post/anhydrous-protein/">プロテインは無水換算値じゃなくてタンパク質量を見るべし</a>」で詳しく解説しているので、合わせて確認してみてください。<br>
 <br>
 次に、ロイシン含有量を見てみましょう。  
 <br>
@@ -236,7 +239,7 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 <br>
 一方、WPIでは<b>NITRO TECH WHEY GOLD</b>がお買い求めやすくなっています（ロイシン含有量に関しては現在お問い合わせ中です）。<br>
 <br>
-WPCとWPIの違いについては、<a href="/post/whey-protein-manufacturing/">ホエイプロテインのコンセントレートとアイソレートって何が違うの？</a>で説明しているので、よかったら見てみてください。<br>
+WPCとWPIの違いについては、「<a href="/post/whey-protein-manufacturing/">ホエイプロテインのコンセントレートとアイソレートって何が違うの？</a>」で説明しているので、よかったら見てみてください。<br>
 <br>
 
 #### <i class="fa fa-check"></i>WPC PURE（プレーン）

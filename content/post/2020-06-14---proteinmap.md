@@ -29,6 +29,11 @@ keywords: [ "プロテイン", "選び方", "ポジショニングマップ", "�
 
 結論から言うと、<b>20種類のプロテイン</b>を<b>タンパク質含有量・ロイシン含有量・価格で比較</b>したところ、筋トレ・ダイエット向けの<b>コスパ最強のプロテイン</b>は<a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「X-PLOSION（エクスプロージョン）のプレーン味」</b></a>でした。<br>
 <br>
+<a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow">
+  <img width="640px" src="/images/x-plosion.png" alt="エクスプロージョン" />
+</a>
+<br>
+<br>
 続いて<a href="https://amzn.to/3ejXn6a" target="_blank" rel="nofollow"><b>「WPC PUREのプレーン味」</b></a>と<a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「MYPROTEIN Impact」</b></a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">が続きます。<br>
 <a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「MYPROTEIN Impact」</b></a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">はセール中だと最もコスパがよくなることもあるので、お買い求めの際はMYPROTEINのセールが開催されているかも確認してみてください。<br>
 <b>30%以上のセール</b>が行われているとMYPROTEIN Impact（ノンフレーバー）の方がコスパが良くなります。

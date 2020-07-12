@@ -25,11 +25,11 @@ keywords: [ "プロテイン", "選び方", "ポジショニングマップ", "�
 </ul>
 <br>
 
-## コスパ最強のプロテインは「WPC PURE（プレーン）」
+## コスパ最強のプロテインは「X-PLOSION（エクスプロージョン）のプレーン味」
 
-結論から言うと、<b>20種類のプロテイン</b>を<b>タンパク質含有量・ロイシン含有量・価格で比較</b>したところ、筋トレ・ダイエット向けの<b>コスパ最強のプロテイン</b>は<a href="https://amzn.to/3ejXn6a" target="_blank" rel="nofollow"><b>「WPC PUREのプレーン味」</b></a>でした。<br>
+結論から言うと、<b>20種類のプロテイン</b>を<b>タンパク質含有量・ロイシン含有量・価格で比較</b>したところ、筋トレ・ダイエット向けの<b>コスパ最強のプロテイン</b>は<a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「X-PLOSION（エクスプロージョン）のプレーン味」</b></a>でした。<br>
 <br>
-続いて<a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「X-PLOSION（エクスプロージョン）のプレーン味」</b></a>と<a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「MYPROTEIN Impact」</b></a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">が続きます。<br>
+続いて<a href="https://amzn.to/3ejXn6a" target="_blank" rel="nofollow"><b>「WPC PUREのプレーン味」</b></a>と<a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「MYPROTEIN Impact」</b></a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">が続きます。<br>
 <a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「MYPROTEIN Impact」</b></a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">はセール中だと最もコスパがよくなることもあるので、お買い求めの際はMYPROTEINのセールが開催されているかも確認してみてください。<br>
 <b>30%以上のセール</b>が行われているとMYPROTEIN Impact（ノンフレーバー）の方がコスパが良くなります。
 <br>
@@ -177,47 +177,47 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 
 ### <i class="fa fa-trophy"></i>ロイシン含有量ランキング
 
-ロイシン含有量が一番多いのは、<a href="https://amzn.to/3ejXn6a" target="_blank" rel="nofollow"><b>「WPC PUREのプレーン味」</b></a>でした。<br>
+ロイシン含有量が一番多いのは、<a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「MYPROTEIN Impactのノンフレーバー」</b></a>でした。<br>
 <br>
 
 | ランキング | ホエイプロテイン                             | ロイシン含有量g（タンパク質100gあたり）|
 |------------|----------------------------------------------|----------------------------------------|
-| 1          | WPC PURE（プレーン）                         | 12.95g                                 |
-| 2          | MYPROTEIN Impact（ノンフレーバー）           | 12.72g                                 |
-| 3          | WPC PURE（ココア）                           | 12.61g                                 |
-| 4          | GronG WPI（ナチュラル）                      | 12.19g                                 |
-| 5          | GOLD'S GYM CFM Whey Protein（バナナ）        | 11.83g                                 |
-| 6          | nichie WPI                                   | 11.5g                                  |
-| 7          | Champion PURE WHEY PLUS                      | 11.34g                                 |
-| 8          | Kentai パワーボディ100%ホエイ（ミルクチョコ）| 11.29g                                 |
-| 9          | X-PLOSION（プレーン）                        | 11.1g                                  |
-| 10         | X-PLOSION（ミルクチョコ）                    | 11.1g                                  |
-| 11         | ALPRON WPC ホエイプロテイン（チョコ）        | 10.44g                                 |
-| 12         | nichie WPH                                   | 10.4g                                  |
-| 13         | MYPROTEIN Impact（ミルクティー）             | 10.39g                                 |
-| 14         | GOLD STANDARD（ダブルリッチ）                | 10.29g                                 |
-| 15         | ALLWHEY Classic（チョコレート）              | 10.05g                                 |
+| 1          | MYPROTEIN Impact（ノンフレーバー）           | 12.72g                                 |
+| 2          | GronG WPI（ナチュラル）                      | 12.19g                                 |
+| 3          | GOLD'S GYM CFM Whey Protein（バナナ）        | 11.83g                                 |
+| 4          | nichie WPI                                   | 11.5g                                  |
+| 5          | Champion PURE WHEY PLUS                      | 11.34g                                 |
+| 6          | Kentai パワーボディ100%ホエイ（ミルクチョコ）| 11.29g                                 |
+| 7          | X-PLOSION（プレーン）                        | 11.1g                                  |
+| 8          | X-PLOSION（ミルクチョコ）                    | 11.1g                                  |
+| 9          | ALPRON WPC ホエイプロテイン（チョコ）        | 10.44g                                 |
+| 10         | nichie WPH                                   | 10.4g                                  |
+| 11         | MYPROTEIN Impact（ミルクティー）             | 10.39g                                 |
+| 12         | GOLD STANDARD（ダブルリッチ）                | 10.29g                                 |
+| 13         | ALLWHEY Classic（チョコレート）              | 10.05g                                 |
+| 14         | WPC PURE（プレーン）                         | 10.1g                                 |
+| 15         | WPC PURE（ココア）                           | 9.4g                                 |
 | 16         | nichie WPC                                   | 8.18g                                  |
 
 
 ### <i class="fa fa-trophy"></i>ロイシンあたりの価格ランキング
 
-ロイシンあたりの価格が最も安いのも、<a href="https://amzn.to/3ejXn6a" target="_blank" rel="nofollow"><b>「WPC PUREのプレーン味」</b></a>でした。<br>
+ロイシンあたりの価格が最も安いのは、<a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「X-PLOSION（エクスプロージョン）のプレーン味」</b></a>でした。<br>
 <br>
 
 | ランキング | ホエイプロテイン                             | 価格（ロイシン1gあたり）|
 |------------|----------------------------------------------|----------------------------------------|
-| 1          | WPC PURE（プレーン）                         | 17.77円                                |
-| 2          | X-PLOSION（プレーン）                        | 18.60円                                |
+| 1          | X-PLOSION（プレーン）                        | 18.60円                                |
+| 2          | WPC PURE（プレーン）                         | 22.78円                                |
 | 3          | MYPROTEIN Impact（ノンフレーバー）           | 23.18円                                |
 | 4          | X-PLOSION（ミルクチョコ）                    | 23.60円                                |
-| 5          | WPC PURE（ココア）                           | 26.38円                                |
-| 6          | GronG WPI（ナチュラル）                      | 28.93円                                |
-| 7          | ALLWHEY Classic（チョコレート）              | 31.28円                                |
-| 8          | MYPROTEIN Impact（ミルクティー）             | 31.73円                                |
-| 9          | ALPRON WPC ホエイプロテイン（チョコ）        | 32.05円                                |
-| 10         | nichie WPC                                   | 34.55円                                |
-| 11         | GOLD STANDARD（ダブルリッチ）                | 35.63円                                |
+| 5          | GronG WPI（ナチュラル）                      | 28.93円                                |
+| 6          | ALLWHEY Classic（チョコレート）              | 31.28円                                |
+| 7          | MYPROTEIN Impact（ミルクティー）             | 31.73円                                |
+| 8          | ALPRON WPC ホエイプロテイン（チョコ）        | 32.05円                                |
+| 9          | nichie WPC                                   | 34.55円                                |
+| 10         | GOLD STANDARD（ダブルリッチ）                | 35.63円                                |
+| 11         | WPC PURE（ココア）                           | 35.78円                                |
 | 12         | nichie WPI                                   | 36.93円                                |
 | 13         | Champion PURE WHEY PLUS                      | 38.80円                                |
 | 14         | nichie WPH                                   | 40.60円                                |
@@ -225,7 +225,7 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 | 16         | GOLD'S GYM CFM Whey Protein（バナナ）        | 72.11円                                |
 
 <br>
-こうしてみると、「WPC PURE（プレーン）」と「X-PLOSION（プレーン）」のコスパが高いことが分かります。<br>
+こうしてみると、「X-PLOSION（プレーン）」のコスパが高いことが分かります。<br>
 
 ### プロテインポジショニングマップ
 
@@ -235,29 +235,25 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 
 <br>
 <b>マップの右上のエリアがコスパが良いエリア</b>になります。<br>
-マップを見て分かる通り、WPCホエイプロテインでは、<b>WPC PURE</b>、<b>X-PLOSION</b>、<b>MYPROTEIN Impact</b>あたりがコスパが良いと言えます。<br>
+マップを見て分かる通り、WPCホエイプロテインでは、<b>X-PLOSION</b>、<b>MYPROTEIN Impact</b>あたりがコスパが良いと言えます。<br>
 <br>
 一方、WPIでは<b>NITRO TECH WHEY GOLD</b>がお買い求めやすくなっています（ロイシン含有量に関しては現在お問い合わせ中です）。<br>
 <br>
-WPCとWPIの違いについては、「<a href="/post/whey-protein-manufacturing/">ホエイプロテインのコンセントレートとアイソレートって何が違うの？</a>」で説明しているので、よかったら見てみてください。<br>
+WPCとWPIの違いについては、<a href="/post/whey-protein-manufacturing/"><b>「ホエイプロテインのコンセントレートとアイソレートって何が違うの？」</b></a>で詳しく説明しているので、よかったら見てみてください。<br>
 <br>
 
-#### <i class="fa fa-check"></i>WPC PURE（プレーン）
-ロイシン含有量がとにかく豊富なので、筋タンパク質の合成を促進したい方にとっては最もコスパが良いプロテインと言えます。<br>
-<a href="https://amzn.to/3ejXn6a" target="_blank" rel="nofollow"><b>「Amazon（アマゾン）」</b></a>で購入することができます。<br>
-<br>
 #### <i class="fa fa-check"></i>X-PLOSION（プレーン）
 安さと品質の高さを兼ね備えているの特徴です。プレーンが最もコスパが高いですが、それ以外の味でも十分コスパが高いです。<br>
 <a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「Amazon（アマゾン）」</b></a>で購入することができます。<br>
 <br>
 #### <i class="fa fa-check"></i>MYPROTEIN Impact（マイプロテイン インパクト）
 価格の割にロイシン含有量が多く、味も美味しいので、初心者の方でも飲みやすいのが特徴です。<br>
-定期的にセールをやっている（ゾロ目の日など）ので、そのタイミングで購入すると、さらにコスパが高くなります。  
+定期的にセールをやっている（ゾロ目の日など）ので、そのタイミングで購入すると、さらにコスパが高くなります（30%以上のセールで最もコスパが高くなります）。<br>
 <a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「公式サイト」</b></a>
 <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">
 があるので、そこで購入するのが良いでしょう（はじめてMYPROTEINで購入する方は、<a href="https://www.myprotein.jp/referrals.list?applyCode=99PM-R1" target="_blank" rel="nofollow">こちら</a>から登録していただければ1,000円割引になります）。<br>
 <br>
-セールや味に関する情報は、<a href="/post/review-myprotein/#セールの時期">「マイプロテインのコスパを他社と徹底比較！セール時期や人気の味まで」</a>にもう少し詳しく書いてあります。
+セールや味に関する情報は、<a href="/post/review-myprotein/"><b>「マイプロテインのコスパを他社と徹底比較！セール時期や人気の味まで」</b></a>にもう少し詳しく書いてあります。
 <br>
 <br>
 #### <i class="fa fa-check"></i>NITRO TECH WHET GOLD（ダブルリッチチョコレート）

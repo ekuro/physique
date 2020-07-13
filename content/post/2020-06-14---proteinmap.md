@@ -146,7 +146,7 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 筋力向上目的でホエイプロテインを購入する場合は、これらの分量と実際の価格を比較して、コスパを検討する必要があります。
 
 ## コスパの良いプロテインランキング
-上記で見たポイントについて、20種類のプロテインを比較しました。
+上記で見たポイントについて、20数種類のプロテインを比較しました。
 
 ### <i class="fa fa-trophy"></i>タンパク質あたりの価格ランキング
 
@@ -173,36 +173,41 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 | 14         | nichie WPH                                    | 4,222円                     |
 | 15         | nichie WPI                                    | 4,247円                     |
 | 16         | Champion PURE WHEY PLUS                       | 4,385円                     |
-| 17         | ザバス ホエイ100（ココア）                    | 5,596円                     |
-| 18         | Kentai パワーボディ100%ホエイ（ミルクチョコ） | 5,797円                     |
-| 19         | HYDRO WHEY（WPH）                             | 5,825円                     |
-| 20         | グリコ マックスロードホエイプロテイン         | 7,093円                     |
-| 21         | GOLD'S GYM CFM Whey Protein（バナナ）         | 8,533円                     |
+| 17         | VALX（プレーン）                                   | 4,672円                     |
+| 18         | ザバス ホエイ100（ココア）                    | 5,596円                     |
+| 19         | Kentai パワーボディ100%ホエイ（ミルクチョコ） | 5,797円                     |
+| 20         | HYDRO WHEY（WPH）                             | 5,825円                     |
+| 21         | グリコ マックスロードホエイプロテイン         | 7,093円                     |
+| 22         | GOLD'S GYM CFM Whey Protein（バナナ）         | 8,533円                     |
 
 
 ### <i class="fa fa-trophy"></i>ロイシン含有量ランキング
 
-ロイシン含有量が一番多いのは、<a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「MYPROTEIN Impactのノンフレーバー」</b></a>でした。<br>
+ロイシン含有量が一番多いのは、<b>VALXのプレーン味」</b>でした。<br>
+7月現在プレーン味は売り切れており、<a href="https://amzn.to/3iYubW8" target="_blank" rel="nofollow"><b>チョコ味</b></a>のみ購入可能です。<br>
 <br>
 
 | ランキング | ホエイプロテイン                             | ロイシン含有量g（タンパク質100gあたり）|
 |------------|----------------------------------------------|----------------------------------------|
-| 1          | MYPROTEIN Impact（ノンフレーバー）           | 12.72g                                 |
-| 2          | GronG WPI（ナチュラル）                      | 12.19g                                 |
-| 3          | GOLD'S GYM CFM Whey Protein（バナナ）        | 11.83g                                 |
-| 4          | nichie WPI                                   | 11.5g                                  |
-| 5          | Champion PURE WHEY PLUS                      | 11.34g                                 |
-| 6          | Kentai パワーボディ100%ホエイ（ミルクチョコ）| 11.29g                                 |
-| 7          | X-PLOSION（プレーン）                        | 11.1g                                  |
-| 8          | X-PLOSION（ミルクチョコ）                    | 11.1g                                  |
-| 9          | ALPRON WPC ホエイプロテイン（チョコ）        | 10.44g                                 |
-| 10         | nichie WPH                                   | 10.4g                                  |
-| 11         | MYPROTEIN Impact（ミルクティー）             | 10.39g                                 |
-| 12         | GOLD STANDARD（ダブルリッチ）                | 10.29g                                 |
-| 13         | ALLWHEY Classic（チョコレート）              | 10.05g                                 |
-| 14         | WPC PURE（プレーン）                         | 10.1g                                 |
-| 15         | WPC PURE（ココア）                           | 9.4g                                 |
-| 16         | nichie WPC                                   | 8.18g                                  |
+| 1          | VALX（プレーン）                                 | 13.48g                                  |
+| 2          | HYDRO WHEY（WPH）                             | 12.75g                            |
+| 3          | MYPROTEIN Impact（ノンフレーバー）           | 12.72g                                 |
+| 4          | GronG WPI（ナチュラル）                      | 12.19g                                 |
+| 5          | ビーレジェンド（ナチュラル）                    | 11.97g                     |
+| 6          | GOLD'S GYM CFM Whey Protein（バナナ）        | 11.83g                                 |
+| 7          | nichie WPI                                   | 11.5g                                  |
+| 8          | Champion PURE WHEY PLUS                      | 11.34g                                 |
+| 9          | Kentai パワーボディ100%ホエイ（ミルクチョコ）| 11.29g                                 |
+| 10         | X-PLOSION（プレーン）                        | 11.1g                                  |
+| 11         | X-PLOSION（ミルクチョコ）                    | 11.1g                                  |
+| 12         | ALPRON WPC ホエイプロテイン（チョコ）        | 10.44g                                 |
+| 13         | nichie WPH                                   | 10.4g                                  |
+| 14         | MYPROTEIN Impact（ミルクティー）             | 10.39g                                 |
+| 15         | GOLD STANDARD（ダブルリッチ）                | 10.29g                                 |
+| 16         | WPC PURE（プレーン）                         | 10.1g                                 |
+| 17         | ALLWHEY Classic（チョコレート）              | 10.05g                                 |
+| 18         | WPC PURE（ココア）                           | 9.4g                                 |
+| 19         | nichie WPC                                   | 8.18g                                  |
 
 
 ### <i class="fa fa-trophy"></i>ロイシンあたりの価格ランキング
@@ -217,17 +222,20 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 | 3          | MYPROTEIN Impact（ノンフレーバー）           | 23.18円                                |
 | 4          | X-PLOSION（ミルクチョコ）                    | 23.60円                                |
 | 5          | GronG WPI（ナチュラル）                      | 28.93円                                |
-| 6          | ALLWHEY Classic（チョコレート）              | 31.28円                                |
-| 7          | MYPROTEIN Impact（ミルクティー）             | 31.73円                                |
-| 8          | ALPRON WPC ホエイプロテイン（チョコ）        | 32.05円                                |
-| 9          | nichie WPC                                   | 34.55円                                |
-| 10         | GOLD STANDARD（ダブルリッチ）                | 35.63円                                |
-| 11         | WPC PURE（ココア）                           | 35.78円                                |
-| 12         | nichie WPI                                   | 36.93円                                |
-| 13         | Champion PURE WHEY PLUS                      | 38.80円                                |
-| 14         | nichie WPH                                   | 40.60円                                |
-| 15         | Kentai パワーボディ100%ホエイ（ミルクチョコ）| 51.35円                                |
-| 16         | GOLD'S GYM CFM Whey Protein（バナナ）        | 72.11円                                |
+| 6          | ビーレジェンド（ナチュラル）                    | 28.95g                     |
+| 7          | ALLWHEY Classic（チョコレート）              | 31.28円                                |
+| 8          | MYPROTEIN Impact（ミルクティー）             | 31.73円                                |
+| 9          | ALPRON WPC ホエイプロテイン（チョコ）        | 32.05円                                |
+| 10         | nichie WPC                                   | 34.55円                                |
+| 11         | VALX（プレーン）                                 | 34.66円                                 |
+| 12         | WPC PURE（ココア）                           | 35.38円                                |
+| 13         | GOLD STANDARD（ダブルリッチ）                | 35.63円                                |
+| 14         | nichie WPI                                   | 36.93円                                |
+| 15         | Champion PURE WHEY PLUS                      | 38.80円                                |
+| 16         | nichie WPH                                   | 40.60円                                |
+| 17         | HYDRO WHEY（WPH）                             | 45.70円                            |
+| 18         | Kentai パワーボディ100%ホエイ（ミルクチョコ）| 51.35円                                |
+| 19         | GOLD'S GYM CFM Whey Protein（バナナ）        | 72.11円                                |
 
 <br>
 こうしてみると、「X-PLOSION（プレーン）」のコスパが高いことが分かります。<br>

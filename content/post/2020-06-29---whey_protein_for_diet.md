@@ -16,7 +16,7 @@ keywords: [ "プロテイン", "ホエイ", "選び方", "ダイエット", "タ
 本記事では、運動していない人もホエイプロテインを飲むことで痩せられるという科学的根拠、さらにどのタイミングでプロテインを飲むのがいいのかについて解説します。  
 
 ## 筆者の紹介
-<ul>
+<ul class="focus">
   <li>東京工業大学アメフト部出身。その後アメフト部のコーチに就任。</li>
   <li>IT系のエンジニアを集めたエンジニア筋トレ部を設立。</li>
   <li>エンジニア健康サミットを定期開催。</li>
@@ -77,11 +77,10 @@ keywords: [ "プロテイン", "ホエイ", "選び方", "ダイエット", "タ
 
 ## ダイエットに適したホエイプロテイン
 ダイエットが目的であれば、値段が安く、タンパク質の含有率が80%くらいのものが良いでしょう。<br><br>
-「<a target="_blank" href="https://www.amazon.co.jp/gp/product/B07GZFLG81/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07GZFLG81&linkCode=as2&tag=ekuro-22&linkId=df576ada70485aacfb5a416f427d65eb" rel="nofollow">WPC PURE（タンパク質含有率82.1%）</a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=ekuro-22&l=am2&o=9&a=B07GZFLG81" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />」や「<a target="_blank" href="https://www.amazon.co.jp/gp/product/B00EUV8WIM/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B00EUV8WIM&linkCode=as2&tag=ekuro-22&linkId=e1c2bd66a6482b774ef077b23045d622">nichie ホエイプロテイン WPC（タンパク質含有率76.4%）</a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=ekuro-22&l=am2&o=9&a=B00EUV8WIM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />」は大変コスパが良いホエイプロテインです。<br>
+<a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「X-PLOSION（タンパク質含有率75.3%）」</b></a>や<a href="https://amzn.to/3ejXn6a" target="_blank" rel="nofollow"><b>「WPC PURE（タンパク質含有率78%）」</b></a>は大変コスパが良いホエイプロテインです。<br>
 ただ味がプレーンなので、飲みづらさを感じる人もいるかもしれません。<br>
-そういった方には、少し値段が高くなりますが、「<a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Double-Rich-Chocolate-7-64-lb-3-47-kg/80024?rcode=SLW545" target="_blank" rel="nofollow">GOLD STANDARD（タンパク質含有率77.4%）</a>」もおすすめです。<br>
-
-GOLD STANDARDもWPC PUREやnichieに比べると高いですが、他社比較ではお手頃です<br><br>
+そういった方には、多少コスパが悪くなりますが、<a href="https://amzn.to/39egE8k" target="_blank" rel="nofollow"><b>「X-PLOSIONのミルクチョコレート味」</b></a>や、<a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein-milk-tea%2F11571203.html" rel="nofollow" target="_blank"><b>「MYPROTEINミルクティー味」</b></a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">もおすすめです。<br>
+<br>
 もしプロテインの価格比較が気になる方がいたら、下記の記事でまとめているので、是非ご参照ください。<br><br>
 
 {{<a href="/post/2020-06-14---proteinmap.md">}}
@@ -89,59 +88,6 @@ GOLD STANDARDもWPC PUREやnichieに比べると高いですが、他社比較�
 <br>
 <br>
 
-### WPC PURE
-
-{{< rawhtml >}}
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
-(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js","msmaflink");
-msmaflink({"n":"リミテスト ホエイプロテイン 工場直販 国産 WPC PURE 1kg プロテイン LIMITEST (プレーン, 1kg)","b":"LIMITEST","t":"","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/51jx+7HSo4L.jpg","\/51RggiKFXaL.jpg","\/51dlm+eV1wL.jpg","\/51c6YpggpJL.jpg","\/51Gc-7r6XFL.jpg","\/517XAr9oN6L.jpg","\/510HX7006bL.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B07GZFLG81","t":"amazon","r_v":""},"aid":{"amazon":"2046917","rakuten":"2046887","yahoo":"2046919"},"eid":"2ZhHF","s":"s"});
-</script>
-<div id="msmaflink-2ZhHF">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
-{{< /rawhtml >}}
-
-### niche ホエイプロテイン WPC
-
-{{< rawhtml >}}
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
-(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js","msmaflink");
-msmaflink({"n":"nichie ホエイプロテイン WPC 無添加 アメリカ産 プレーン味 1kg","b":"ニチエー（nichie）","t":"wpc-01","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/41lHLyLBr7L.jpg","\/51aMC+elbtL.jpg","\/51dhQuN66ML.jpg","\/617f9Utn+1L.jpg","\/510xGXhnCLL.jpg","\/515BNX7vymL.jpg","\/51hBZnRTXRL.jpg","\/51eFTZn2k8L.jpg","\/413+03w9+5L.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B00EUV8WIM","t":"amazon","r_v":""},"aid":{"amazon":"2046917","rakuten":"2046887","yahoo":"2046919"},"eid":"oOsQz","s":"s"});
-</script>
-<div id="msmaflink-oOsQz">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
-{{< /rawhtml >}}
-
-
-### GOLD STANDARD
-
-{{< rawhtml >}}
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
-(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js","msmaflink");
-msmaflink({"n":"Gold Standard 100% ホエイ プロテイン ダブルリッチチョコレート 2.27kg (5lbs) [米国メーカー正規品] [並行輸入品]","b":"GOLD STANDARD","t":"","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/41+nJqbAJML.jpg","\/51Y3D7nuNlL.jpg","\/41FdC9MIg+L.jpg","\/41SxWudr9bL.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B08B7ZYL18","t":"amazon","r_v":""},"aid":{"amazon":"2046917","rakuten":"2046887","yahoo":"2046919"},"eid":"edFT9","s":"s"});
-</script>
-<div id="msmaflink-edFT9">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
-{{< /rawhtml >}}
-<br>
-<br>
 おすすめのプロテイン紹介は以上です。  
 本記事の参考論文は以下につけておきます。  
 <br>

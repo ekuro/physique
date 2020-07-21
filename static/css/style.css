@@ -235,3 +235,15 @@ ul.focus {
   display: block;
   border-bottom: dashed 1px lightgray;
 }
+
+blockquote {
+  font-size: 0.8em;
+  padding-bottom: 0;
+}
+blockquote a.author {
+  font-size: 1em;
+  line-height: 2em;
+  font-style: normal;
+  text-decoration: none;
+  border-bottom: 1px dashed;
+}

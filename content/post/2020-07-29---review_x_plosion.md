@@ -1,7 +1,7 @@
 ---
 title: "X-PLOSIONプロテインの評価とおすすめの味を徹底解説！"
 description: "「X-PLOSION（エクスプロージョン）を購入するか迷っている」「評判はどうなんだろう」「どの味を買えばいいんだろう」と悩んではいませんか？今回はX-PLOSIONの評判についてのまとめや、おすすめの味や効果的な飲み方について徹底解説します。是非購入時の参考にしていただければと思います。"
-thumbnail: '/images/best_soy_protein.png'
+thumbnail: '/images/xplosion_chocorate.jpg'
 date: 2020-07-29T10:00:00+09:00
 slug: review-x-plosion
 draft: false

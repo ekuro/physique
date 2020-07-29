@@ -203,6 +203,10 @@ ul.focus {
   }
 }
 
+.small {
+  font-size: 0.8em;
+}
+
 /** 目次 */
 #TableOfContents {
   margin-bottom: 30px;

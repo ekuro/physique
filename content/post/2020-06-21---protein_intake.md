@@ -1,6 +1,7 @@
 ---
 title: "タンパク質の理想的な摂取量について解説"
 description: "タンパク質は人にとって大変重要な栄養素です。しかし1日どれくらい摂取すればいいのかについては色々な議論があります。今回はそんなプロテインの摂取量について解説します。"
+thumbnail: '/images/protein_content.png'
 date: 2020-06-21T00:00:00+09:00
 slug: protein-intake
 draft: false

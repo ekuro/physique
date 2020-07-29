@@ -86,22 +86,25 @@ xplosionのプロテインは何種類か飲みましたが、その中でも一
 X-PLOSIONは味付きでもタンパク質含有量のコスパが十分に高いので、プレーンを飲み続けるのが辛いという方は是非味付きを検討してみてください。<br>
 ここでは、公式にお問い合わせをした結果判明した<b>人気の味ランキング</b>をご紹介します。<br>
 
-### <i class="fa fa-trophy"></i>1位 ミルクチョコレート味 >> <a href="https://amzn.to/306Udz0" target="_blank" rel="nofollow">購入</a>
+### <i class="fa fa-trophy"></i>1位 ミルクチョコレート味
 
 <a href="https://amzn.to/306Udz0" target="_blank" rel="nofollow">
-  <img width="240px" src="/images/xplosion_chocorate.jpg" />
+  <img width="240px" src="/images/xplosion_chocorate.jpg" /><br>
+  Amazonで確認する
 </a>
 
-### <i class="fa fa-trophy"></i>2位 ブルーベリー味 >> <a href="https://amzn.to/2P8Efy5" target="_blank" rel="nofollow">購入</a>
+### <i class="fa fa-trophy"></i>2位 ブルーベリー味
 
 <a href="https://amzn.to/2P8Efy5" target="_blank" rel="nofollow">
-  <img width="240px" src="/images/xplosion_blueberry.jpg" />
+  <img width="240px" src="/images/xplosion_blueberry.jpg" /><br>
+  Amazonで確認する
 </a>
 
-### <i class="fa fa-trophy"></i>3位 メロン味 >> <a href="https://amzn.to/306VplY" target="_blank" rel="nofollow">購入</a>
+### <i class="fa fa-trophy"></i>3位 メロン味
 
 <a href="https://amzn.to/306VplY" target="_blank" rel="nofollow">
-  <img width="240px" src="/images/xplosion_melon.jpg" />
+  <img width="240px" src="/images/xplosion_melon.jpg" /><br>
+  Amazonで確認する
 </a>
 
 <br>

@@ -143,7 +143,7 @@ WPIとWPCについては、<a href="https://physique-engineer.jp/post/whey-prote
 <a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein-milk-tea%2F11571203.html" rel="nofollow" target="_blank"><i class="fa fa-chevron-right"></i> MYPROTEINミルクティー味</a>
 <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">
 <br>
-<a href="https://www.myprotein.jp/referrals.list?applyCode=99PM-R1" target="_blank" rel="nofollow"><i class="fa fa-chevron-right"></i> はじめてMYPROTEINを使う方はこちら（1,000円割引になります）</a>
+<a href="https://www.myprotein.jp/accountCreate.account?applyCode=99PM-R1" target="_blank" rel="nofollow"><i class="fa fa-chevron-right"></i> はじめてMYPROTEINを使う方はこちら（1,000円割引になります）</a>
 <br>
 <br>
 
@@ -157,6 +157,6 @@ WPIとWPCについては、<a href="https://physique-engineer.jp/post/whey-prote
 
 マイプロテインは<b>コスパ・味ともに最高レベルのプロテイン</b>なので、一度も飲んだことがない人は是非一度お試しください。<br>
 <br>
-<a href="https://www.myprotein.jp/referrals.list?applyCode=99PM-R1" target="_blank" rel="nofollow"><i class="fa fa-chevron-right"></i> はじめてMYPROTEINを使う方はこちら（1,000円割引になります）</a>
+<a href="https://www.myprotein.jp/accountCreate.account?applyCode=99PM-R1" target="_blank" rel="nofollow"><i class="fa fa-chevron-right"></i> はじめてMYPROTEINを使う方はこちら（1,000円割引になります）</a>
 <br>
 <br>

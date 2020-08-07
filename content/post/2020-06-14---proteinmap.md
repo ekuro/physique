@@ -264,7 +264,7 @@ WPCとWPIの違いについては、<a href="/post/whey-protein-manufacturing/">
 定期的にセールをやっている（ゾロ目の日など）ので、そのタイミングで購入すると、さらにコスパが高くなります（30%以上のセールで最もコスパが高くなります）。<br>
 <a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「公式サイト」</b></a>
 <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">
-があるので、そこで購入するのが良いでしょう（はじめてMYPROTEINで購入する方は、<a href="https://www.myprotein.jp/referrals.list?applyCode=99PM-R1" target="_blank" rel="nofollow">こちら</a>から登録していただければ1,000円割引になります）。<br>
+があるので、そこで購入するのが良いでしょう（はじめてMYPROTEINで購入する方は、<a href="https://www.myprotein.jp/accountCreate.account?applyCode=99PM-R1" target="_blank" rel="nofollow">こちら</a>から登録していただければ1,000円割引になります）。<br>
 <br>
 セールや味に関する情報は、<a href="/post/review-myprotein/"><b>「マイプロテインのコスパを他社と徹底比較！セール時期や人気の味まで」</b></a>にもう少し詳しく書いてあります。
 <br>

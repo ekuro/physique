@@ -2,7 +2,7 @@
   width: 230px;
 }
 
-.markdown strong, .markdown b, .markdown em {
+.markdown em {
   background-color: #fff;
 }
 

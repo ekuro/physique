@@ -1,5 +1,5 @@
 ---
-title: "コスパ最強のプロテインが決定！おすすめプロテイン20種を徹底比較"
+title: "【最新版】おすすめのコスパ最強プロテインは？人気プロテイン20選を徹底比較"
 description: "「プロテインって何を選んだらいいか分からない。」「プロテイン代がかさむので節約したい。」と思うことはありませんか？そんな方に向けて、コスパの良いプロテインとその選び方を徹底解説しました。もっとコスパの良いプロテインがないか気になる・何を選べばいいか分からないという方は是非記事をご覧ください。"
 thumbnail: '/images/protein-positioning-map.png'
 date: 2020-06-14T15:45:44+09:00
@@ -20,6 +20,7 @@ keywords: [ "プロテイン", "選び方", "ポジショニングマップ", "�
 ## 筆者の紹介
 <ul class="focus">
   <li>東京工業大学アメフト部出身。その後アメフト部のコーチに就任。</li>
+  <li>筋トレ・プロテイン歴15年</li>
   <li>IT系のエンジニアを集めたエンジニア筋トレ部を設立。</li>
   <li>エンジニア健康サミットを定期開催。</li>
 </ul>
@@ -27,16 +28,20 @@ keywords: [ "プロテイン", "選び方", "ポジショニングマップ", "�
 
 ## コスパ最強のプロテインは「X-PLOSION（エクスプロージョン）のプレーン味」
 
+<b>1位. <a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow">「X-PLOSION（エクスプロージョン）のプレーン味」</a></b><br>
+<b>2位. <a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow">「MYPROTEIN Impactのノンフレーバー」</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt=""></b><br>
+<b>3位. <a href="https://amzn.to/3ejXn6a" target="_blank" rel="nofollow">「WPC PUREのプレーン味」</a></b><br><br>
+
 結論から言うと、<b>20種類のプロテイン</b>を<b>タンパク質含有量・ロイシン含有量・価格で比較</b>したところ、筋トレ・ダイエット向けの<b>コスパ最強のプロテイン</b>は<a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「X-PLOSION（エクスプロージョン）のプレーン味」</b></a>でした。<br>
+筆者自身、恥ずかしながら最近までこのプロテインの存在を知りませんでしたが、成分を計算すると、<b>私が知るプロテインの中では間違いなく最高コスパ</b>でした。<br>
 <br>
 <a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow">
   <img width="640px" src="/images/x-plosion.png" alt="エクスプロージョン" />
 </a>
 <br>
 <br>
-続いて<a href="https://amzn.to/3ejXn6a" target="_blank" rel="nofollow"><b>「WPC PUREのプレーン味」</b></a>と<a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「MYPROTEIN Impactのノンフレーバー」</b></a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">が続きます。<br>
-<a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「MYPROTEIN Impact」</b></a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">はセール中だと最もコスパがよくなることもあるので、お買い求めの際はMYPROTEINのセールが開催されているかも確認してみてください。<br>
-<b>30%以上のセール</b>が行われているとMYPROTEIN Impact（ノンフレーバー）の方がコスパが良くなります。
+続く<a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「MYPROTEIN Impact」</b></a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">はセール中だと最もコスパがよくなることもあるので、お買い求めの際はMYPROTEINのセールが開催されているかも確認してみてください。<br>
+<b>30%以上のセール</b>が行われていると、「MYPROTEIN Impact（ノンフレーバー）」の方が「X-PLOSION（エクスプロージョン）のプレーン味」よりもコスパが良くなります。
 <br>
 <br>
 プロテインのコスパの根拠について説明する前に、プロテインを選ぶ際に見るべきポイントについて解説します。<br>
@@ -242,7 +247,8 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 
 ### プロテインポジショニングマップ
 
-最後にロイシン含有量（横軸）とタンパク質あたりの価格（縦軸）にしてプロテインを並べました。
+ホエイプロテインのコスパを考える上では、<b>ロイシン含有量（タンパク質の質）</b>と<b>タンパク質あたりの価格</b>が重要であることを述べてきました。<br>
+そこで、<b>ロイシン含有量を横軸</b>に、<b>タンパク質あたりの価格を縦軸</b>にした比較表がこちらになります。
 
 ![プロテインのポジショニングマップ](/images/protein-positioning-map.png)
 
@@ -250,7 +256,7 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 <b>マップの右上のエリアがコスパが良いエリア</b>になります。<br>
 マップを見て分かる通り、WPCホエイプロテインでは、<b>X-PLOSION</b>、<b>MYPROTEIN Impact</b>あたりがコスパが良いと言えます。<br>
 <br>
-一方、WPIでは<b>NITRO TECH WHEY GOLD</b>がお買い求めやすくなっています（ロイシン含有量に関しては現在お問い合わせ中です）。<br>
+一方、WPIでは<b><a href="https://jp.iherb.com/pr/muscletech-nitro-tech-100-whey-gold-double-rich-chocolate-2-24-lbs-1-02-kg/70423?rcode=SLW545" target="_blank" rel="nofollow">NITRO TECH WHEY GOLD</a></b>がお買い求めやすくなっています。<br>
 <br>
 WPCとWPIの違いについては、<a href="/post/whey-protein-manufacturing/"><b>「ホエイプロテインのコンセントレートとアイソレートって何が違うの？」</b></a>で詳しく説明しているので、よかったら見てみてください。<br>
 <br>
@@ -259,8 +265,13 @@ WPCとWPIの違いについては、<a href="/post/whey-protein-manufacturing/">
 安さと品質の高さを兼ね備えているの特徴です。プレーンが最もコスパが高いですが、それ以外の味でも十分コスパが高いです。<br>
 <a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「Amazon（アマゾン）」</b></a>で購入することができます。<br>
 <br>
+#### <i class="fa fa-check"></i>X-PLOSION（味付き）
+X-PLOSIONのプレーンよりはコスパは劣りますが、それでも大変コスパが高いです。<br>
+<b>プロテイン初心者の方や、美味しく飲みたいという方</b>は味付きもとてもおすすめです。<br>
+X-PLOSIONの味付きの中でおすすめなのは、人気ランキング2位で、筆者の個人的な感想では1位の<a href="https://amzn.to/2P8Efy5" target="_blank" rel="nofollow"><b>ブルーベリー味</b></a>と、人気ランキング1位で安定の美味しさの<a href="https://amzn.to/306Udz0" target="_blank" rel="nofollow"><b>ミルクチョコレート味</b></a>です。<br>
+<br>
 #### <i class="fa fa-check"></i>MYPROTEIN Impact（マイプロテイン インパクト）
-価格の割にロイシン含有量が多く、味も美味しいので、初心者の方でも飲みやすいのが特徴です。<br>
+価格の割にロイシン含有量が多く、味も美味しいので、<b>初心者の方でも飲みやすい</b>のが特徴です。<br>
 定期的にセールをやっている（ゾロ目の日など）ので、そのタイミングで購入すると、さらにコスパが高くなります（30%以上のセールで最もコスパが高くなります）。<br>
 <a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「公式サイト」</b></a>
 <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">

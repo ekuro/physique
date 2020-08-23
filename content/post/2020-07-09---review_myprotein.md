@@ -11,7 +11,7 @@ keywords: [ "プロテイン", "コスパ", "レビュー", "比較" ]
 ---
 
 <div class="text-center">
-<img width="280px" src="/images/myprotein.jpg" alt="ゴールドスタンダード（Gold Standard）" />
+<img width="280px" src="/images/myprotein.jpg" alt="マイプロテイン（MYPROTEIN）" />
 </div>
 
 ## 本記事の対象者

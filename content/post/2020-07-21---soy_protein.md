@@ -134,13 +134,14 @@ LOHAStyle ソイプロテインの特徴は、なんと言っても<b>コスパ�
 <br>
 <a href="https://amzn.to/2CuZdo6" target="_blank" rel="nofollow">>> 「LOHAStyle ソイプロテイン」をAmazonで確認</a>
 
-### <i class="fa fa-check"></i>コスパ & 運営との距離感で選ぶなら「５４０ソイプロテイン改」
+### <i class="fa fa-check"></i>コスパ & 飲みやすさで選ぶなら「５４０ソイプロテイン改」
 
 <a href="https://amzn.to/2CULqqx" target="_blank" rel="nofollow">
   <img width="140px" src="/images/540_project.jpg" />
 </a>
 <br>
 ５４０ソイプロテイン改もLOHAStyleに負けじと<b>コスパが高い</b>です。<br>
+さらに、他の製品に比べて大豆臭が抑えられているため、大変飲みやすい製品となっています。<br>
 また、５４０ソイプロテイン改は運営の方と<b>SNSを通じて気軽にコミュニケーションが取れる</b>ので安心感を得やすいのが特徴です。<br>
 人気商品ゆえに1kgはAmazonでは売り切れていることが多いですが、入荷したら運営さんからの発信があるので、興味がある方はフォローして報告を待ちましょう。<br>
 <br>

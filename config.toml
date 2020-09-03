@@ -1,7 +1,7 @@
 baseURL = "https://physique-engineer.jp/"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "ITエンジニアの筋トレブログ"
+title = "MEN's 美ボディ"
 theme = "hugo-theme-zozo"
 hasCJKLanguage = true                  # has chinese/japanese/korean ?  # 自动检测是否包含 中文\日文\韩文
 summaryLength = 100
@@ -42,7 +42,7 @@ pygmentscodefencesguesssyntax = true
   url = "/about/"
 
 [params]
-  subTitle = "ITエンジニアが効率的に美ボディになるための筋トレブログ"                                       # site's subTitle  # 网站二级标题
+  subTitle = "美ボディを目指す人向けにおすすめの情報を発信します。"                                       # site's subTitle  # 网站二级标题
   footerSlogan = "For all physiquer"                                   # site's footer slogan  # 网站页脚标语
   keywords = ["筋トレ","プロテイン"]                                  # site's keywords  # 网站关键字
   description = "ITエンジニアがカラダを鍛えるために科学的根拠に基づいて筋トレに関する情報を発信します。効率的にカラダを鍛えて美ボディを目指しましょう！"

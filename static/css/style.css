@@ -63,6 +63,14 @@ ul.focus {
   text-align: center;
 }
 
+.width-100 {
+  width: 100%;
+}
+
+.width-33 {
+  width: 33.333333%;
+}
+
 /** moshimo */
 .post .post_content .easyLink-info a {
   letter-spacing: normal;

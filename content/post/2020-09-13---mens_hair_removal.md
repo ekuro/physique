@@ -96,9 +96,9 @@ SHR（光脱毛）    | 光脱毛（抑毛効果）の中では小さい | 痛�
 IPL脱毛を行っており、スタッフさんの対応も大変良いサロンなので、光脱毛に興味がある場合は、一度お話を聞いてみるのをおすすめします。<br>
 北海道から沖縄まで、全国55店舗ありますが、家や会社の近所にあるかも合わせて確認しましょう。<br>
 <br>
-<a href="https://h.accesstrade.net/sp/cc?rk=0100ntax00khr4" rel="nofollow"><img src="https://h.accesstrade.net/sp/rr?rk=0100ntax00khr4" alt="メンズ脱毛RINX" border="0" /></a>
+<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/borECLCByN4BEO6Gx9ED']})" href="https://h.accesstrade.net/sp/cc?rk=0100ntax00khr4" rel="nofollow"><img src="https://h.accesstrade.net/sp/rr?rk=0100ntax00khr4" alt="メンズ脱毛RINX" border="0" /></a>
 <br>
-<a href="https://h.accesstrade.net/sp/cc?rk=0100ntaz00khr4" rel="nofollow">>> RINX（リンクス）公式サイト<img src="https://h.accesstrade.net/sp/rr?rk=0100ntaz00khr4" width="1" height="1" border="0" alt="" /></a>
+<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/borECLCByN4BEO6Gx9ED']})" href="https://h.accesstrade.net/sp/cc?rk=0100ntaz00khr4" rel="nofollow">>> RINX（リンクス）公式サイト<img src="https://h.accesstrade.net/sp/rr?rk=0100ntaz00khr4" width="1" height="1" border="0" alt="" /></a>
 
 ### 医療レーザー脱毛
 #### <i class="fa fa-check"></i>メンズリゼ
@@ -107,7 +107,7 @@ IPL脱毛を行っており、スタッフさんの対応も大変良いサロ�
 全国23院あり、東京・横浜・埼玉・大阪・神戸・京都。名古屋・仙台・新潟・広島・福岡に展開しています。<br>
 <br>
 
-<a href="https://h.accesstrade.net/sp/cc?rk=0100jhir00khr4" rel="nofollow">>> メンズリゼ公式サイト<img src="https://h.accesstrade.net/sp/rr?rk=0100jhir00khr4" width="1" height="1" border="0" alt="" /></a>
+<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/eV2iCKb60t4BEO6Gx9ED']})" href="https://h.accesstrade.net/sp/cc?rk=0100jhir00khr4" rel="nofollow">>> メンズリゼ公式サイト<img src="https://h.accesstrade.net/sp/rr?rk=0100jhir00khr4" width="1" height="1" border="0" alt="" /></a>
 
 ### 美容電気脱毛
 #### <i class="fa fa-check"></i>ダンディハウス
@@ -115,11 +115,11 @@ IPL脱毛を行っており、スタッフさんの対応も大変良いサロ�
 美容電気脱毛の痛さは人によって感じ方が全然違うので、一度体験してみるのをおすすめします。<br>
 北海道から福岡まで幅広く展開しています。<br>
 <br>
-<a href="https://px.a8.net/svt/ejp?a8mat=3BM7XW+FZ4RX6+1OGO+I1NCH" rel="nofollow">
+<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/rDqOCMqDyN4BEO6Gx9ED']})" href="https://px.a8.net/svt/ejp?a8mat=3BM7XW+FZ4RX6+1OGO+I1NCH" rel="nofollow">
 <img border="0" width="300" height="250" alt="" src="https://www20.a8.net/svt/bgt?aid=200911028966&wid=002&eno=01&mid=s00000007836003031000&mc=1"></a>
 <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=3BM7XW+FZ4RX6+1OGO+I1NCH" alt="">
 <br>
-<a href="https://px.a8.net/svt/ejp?a8mat=3BM7XW+FZ4RX6+1OGO+I2I7M" rel="nofollow">>> ダンディハウス公式サイト</a>
+<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/rDqOCMqDyN4BEO6Gx9ED']})" href="https://px.a8.net/svt/ejp?a8mat=3BM7XW+FZ4RX6+1OGO+I2I7M" rel="nofollow">>> ダンディハウス公式サイト</a>
 <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BM7XW+FZ4RX6+1OGO+I2I7M" alt="">
 
 <br>
@@ -137,8 +137,8 @@ IPL脱毛を行っており、スタッフさんの対応も大変良いサロ�
 Amazonのベストセラー商品は、かなり評価が高い上に、価格も安いので良さそうですね。<br>
 <br>
 
-<a href="https://amzn.to/33nqUZr" target="_blank">【ベストセラー1位】2020新販売 脱毛器 レーザー脱毛器（価格: ¥8,999）</a>
+<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/NAt-COyHyN4BEO6Gx9ED'']})" href="https://amzn.to/33nqUZr" target="_blank">【ベストセラー1位】2020新販売 脱毛器 レーザー脱毛器（価格: ¥8,999）</a>
 <br>
-<a href="https://www.amazon.co.jp/2020%E6%96%B0%E8%B2%A9%E5%A3%B2-%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E8%84%B1%E6%AF%9B%E5%99%A8-IPL%E5%85%89%E8%84%B1%E6%AF%9B%E5%99%A8-%E8%87%AA%E5%8B%95%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5-5%E6%AE%B5%E9%9A%8E%E8%AA%BF%E6%95%B4%E5%8F%AF%E8%83%BD/dp/B087PVLNGF/ref=as_li_ss_il?_encoding=UTF8&psc=1&refRID=7KEKSHRATSCSQXCEXF12&linkCode=li3&tag=ekuro-22&linkId=d613e2a49a735fcdcfdad2014e791ddb&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B087PVLNGF&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=ekuro-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=ekuro-22&language=ja_JP&l=li3&o=9&a=B087PVLNGF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/NAt-COyHyN4BEO6Gx9ED'']})" href="https://www.amazon.co.jp/2020%E6%96%B0%E8%B2%A9%E5%A3%B2-%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E8%84%B1%E6%AF%9B%E5%99%A8-IPL%E5%85%89%E8%84%B1%E6%AF%9B%E5%99%A8-%E8%87%AA%E5%8B%95%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5-5%E6%AE%B5%E9%9A%8E%E8%AA%BF%E6%95%B4%E5%8F%AF%E8%83%BD/dp/B087PVLNGF/ref=as_li_ss_il?_encoding=UTF8&psc=1&refRID=7KEKSHRATSCSQXCEXF12&linkCode=li3&tag=ekuro-22&linkId=d613e2a49a735fcdcfdad2014e791ddb&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B087PVLNGF&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=ekuro-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=ekuro-22&language=ja_JP&l=li3&o=9&a=B087PVLNGF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <br>
 <br>

@@ -107,8 +107,6 @@ IPL脱毛を行っており、スタッフさんの対応も大変良いサロ�
 全国23院あり、東京・横浜・埼玉・大阪・神戸・京都。名古屋・仙台・新潟・広島・福岡に展開しています。<br>
 <br>
 
-<a href="https://h.accesstrade.net/sp/cc?rk=0100nr0200khr4" rel="nofollow"><img src="https://h.accesstrade.net/sp/rr?rk=0100nr0200khr4" alt="メンズリゼ 男性医療レーザー脱毛　来院" border="0" /></a>
-<br>
 <a href="https://h.accesstrade.net/sp/cc?rk=0100jhir00khr4" rel="nofollow">>> メンズリゼ公式サイト<img src="https://h.accesstrade.net/sp/rr?rk=0100jhir00khr4" width="1" height="1" border="0" alt="" /></a>
 
 ### 美容電気脱毛

@@ -82,7 +82,7 @@ SHR（光脱毛）    | 光脱毛（抑毛効果）の中では小さい | 痛�
 
 ### お試しプランがあるか
 痛みは人によって感じ方が違うので、<b>実際にお試ししてみないとわかりません</b>。<br>
-お試しプランが用意されているサロン・クリニックを選ぶようにするとよいでしょう。<br>
+お試しプランが用意されているサロン・クリニックを選ぶようにしましょう。<br>
 
 ### 通いやすさ
 脱毛は1回で終わるものではありません。<br>
@@ -101,13 +101,15 @@ IPL脱毛を行っており、スタッフさんの対応も大変良いサロ�
 <a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/borECLCByN4BEO6Gx9ED']})" href="https://h.accesstrade.net/sp/cc?rk=0100ntaz00khr4" rel="nofollow">>> RINX（リンクス）公式サイト<img src="https://h.accesstrade.net/sp/rr?rk=0100ntaz00khr4" width="1" height="1" border="0" alt="" /></a>
 
 ### 医療レーザー脱毛
-#### <i class="fa fa-check"></i>メンズリゼ
-2020年6月23日でトライアル脱毛が終了してしまいました（無料カウンセリングは受け付けています）。<br>
-予約が少し取りにくいですが、医療レーザー脱毛の最大手なので、医療レーザー脱毛に興味がある場合は、一度カウンセリングを受けると丁寧に説明してくれます。<br>
-全国23院あり、東京・横浜・埼玉・大阪・神戸・京都。名古屋・仙台・新潟・広島・福岡に展開しています。<br>
+#### <i class="fa fa-check"></i>ゴリラクリニック
+2020年6月23日にメンズリゼのトライアルが終了してからというもの、医療レーザー脱毛では数少ないトライアル可能なクリニックです。<br>
+<b>ヒゲ脱毛のトライアルが1万円</b>で体験できます。<br>
+数少ない男性専門の美容クリニックなので、女性の視線を気にすることなく通うことができます。<br>
+全国19院あり、北海道から九州まで展開しています。<br>
 <br>
-
-<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/eV2iCKb60t4BEO6Gx9ED']})" href="https://h.accesstrade.net/sp/cc?rk=0100jhir00khr4" rel="nofollow">>> メンズリゼ公式サイト<img src="https://h.accesstrade.net/sp/rr?rk=0100jhir00khr4" width="1" height="1" border="0" alt="" /></a>
+<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/eV2iCKb60t4BEO6Gx9ED']})" href="https://www.tcs-asp.net/alink?AC=C107084&LC=GRL1&SQ=0&isq=204"><img src="https://img.tcs-asp.net/imagesender?ac=C107084&lc=GRL1&isq=204&psq=0" border="0" alt="ゴリラクリニック"></a>
+<br>
+<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/eV2iCKb60t4BEO6Gx9ED']})" href="https://www.tcs-asp.net/alink?AC=C107084&LC=GRL1&SQ=0&isq=100" title="">>> ゴリラクリニック公式サイト</a>
 
 ### 美容電気脱毛
 #### <i class="fa fa-check"></i>ダンディハウス

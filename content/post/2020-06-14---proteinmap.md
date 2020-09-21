@@ -28,20 +28,21 @@ keywords: [ "プロテイン", "選び方", "ポジショニングマップ", "�
 
 ## コスパ最強のプロテインは「X-PLOSION（エクスプロージョン）のプレーン味」
 
-<b>1位. <a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow">「X-PLOSION（エクスプロージョン）のプレーン味」</a></b><br>
-<b>2位. <a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow">「MYPROTEIN Impactのノンフレーバー」</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt=""></b><br>
-<b>3位. <a href="https://amzn.to/3ejXn6a" target="_blank" rel="nofollow">「WPC PUREのプレーン味」</a></b><br><br>
+<b>1位. <a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/2nGWCL762N8BEO6Gx9ED']})" href="https://h.accesstrade.net/sp/cc?rk=0100ntax00khr4" href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow">「X-PLOSION（エクスプロージョン）のプレーン味」</a></b><br>
+<b>2位. <a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/7kgsCP_82N8BEO6Gx9ED']})" href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow">「MYPROTEIN Impactのノンフレーバー」</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt=""></b><br>
+<b>3位. <a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/Mrm7CPz82N8BEO6Gx9ED']})" href="https://amzn.to/3ejXn6a" target="_blank" rel="nofollow">「WPC PUREのプレーン味」</a></b><br><br>
 
-結論から言うと、<b>20種類のプロテイン</b>を<b>タンパク質含有量・ロイシン含有量・価格で比較</b>したところ、筋トレ・ダイエット向けの<b>コスパ最強のプロテイン</b>は<a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「X-PLOSION（エクスプロージョン）のプレーン味」</b></a>でした。<br>
+結論から言うと、<b>20種類のプロテイン</b>を<b>タンパク質含有量・ロイシン含有量・価格で比較</b>したところ、筋トレ・ダイエット向けの<b>コスパ最強のプロテイン</b>は<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/2nGWCL762N8BEO6Gx9ED']})" href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「X-PLOSION（エクスプロージョン）のプレーン味」</b></a>でした。<br>
 筆者自身、恥ずかしながら最近までこのプロテインの存在を知りませんでしたが、成分を計算すると、<b>私が知るプロテインの中では間違いなく最高コスパ</b>でした。<br>
 <br>
-<a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow">
+<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/2nGWCL762N8BEO6Gx9ED']})" href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow">
   <img width="640px" src="/images/x-plosion.png" alt="エクスプロージョン" />
 </a>
 <br>
 <br>
-続く<a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「MYPROTEIN Impact」</b></a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">はセール中だと最もコスパがよくなることもあるので、お買い求めの際はMYPROTEINのセールが開催されているかも確認してみてください。<br>
-<b>30%以上のセール</b>が行われていると、「MYPROTEIN Impact（ノンフレーバー）」の方が「X-PLOSION（エクスプロージョン）のプレーン味」よりもコスパが良くなります。
+続く<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/7kgsCP_82N8BEO6Gx9ED']})" href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「MYPROTEIN Impact」</b></a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">はセール中だと最もコスパがよくなることもあるので、お買い求めの際はMYPROTEINのセールが開催されているかも確認してみてください。<br>
+<b>30%以上のセール</b>が行われていると、「MYPROTEIN Impact（ノンフレーバー）」の方が「X-PLOSION（エクスプロージョン）のプレーン味」よりもコスパが良くなります。<br>
+※ 最近MYPROTEINに虫が入っているという事件が起きました。品質が気になる方は、X-PLOSIONなど国産のものをおすすめします。<br>
 <br>
 <br>
 プロテインのコスパの根拠について説明する前に、プロテインを選ぶ際に見るべきポイントについて解説します。<br>
@@ -123,7 +124,7 @@ keywords: [ "プロテイン", "選び方", "ポジショニングマップ", "�
 今回は<b>筋力向上目的</b>でホエイプロテインを選ぶ際の表記を見ていきます。<br>
 筋力向上が目的の場合、<b>「タンパク質含有量」</b>と、<a href="/post/protein-positioning-map/#i-classfa-fa-pencil-alti目的別のポイント">目的別のポイント</a>でも説明した<b>「ロイシン（必須アミノ酸の一つ）含有量」</b>に注目して選びましょう。<br>
 <br>
-例えば、Optimum Nutritionの<b>「<a href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Double-Rich-Chocolate-5-lbs-2-27-kg/27509?rcode=SLW545" target="_blank" rel="nofollow">GOLD STANDARD</a>」</b>を見てみましょう。  
+例えば、Optimum Nutritionの<b>「<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/TeBQCKn9x98BEO6Gx9ED']})" href="https://jp.iherb.com/pr/Optimum-Nutrition-Gold-Standard-100-Whey-Double-Rich-Chocolate-5-lbs-2-27-kg/27509?rcode=SLW545" target="_blank" rel="nofollow">GOLD STANDARD</a>」</b>を見てみましょう。  
 <br>
 タンパク質の含有量は商品の説明欄か、成分表を見れば大体分かるようになっています。  
 <br>
@@ -155,7 +156,7 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 
 ### <i class="fa fa-trophy"></i>タンパク質あたりの価格ランキング
 
-タンパク質あたりの価格が最も安いのは、<a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「X-PLOSION（エクスプロージョン）のプレーン味」</b></a>でした。<br>
+タンパク質あたりの価格が最も安いのは、<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/HAlhCKSK2d8BEO6Gx9ED']})" href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「X-PLOSION（エクスプロージョン）のプレーン味」</b></a>でした。<br>
 また、<b>プレーンとそれ以外の味ではタンパク質の含有量の違いからタンパク質あたりの価格が結構違う</b>ので、自分にあった味とコストのバランスを考えて選んでみてください。
 <br>
 <br>
@@ -189,7 +190,7 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 ### <i class="fa fa-trophy"></i>ロイシン含有量ランキング
 
 ロイシン含有量が一番多いのは、<b>VALXのプレーン味」</b>でした。<br>
-7月現在プレーン味は売り切れており、<a href="https://amzn.to/3iYubW8" target="_blank" rel="nofollow"><b>チョコ味</b></a>のみ購入可能です。<br>
+7月現在プレーン味は売り切れており、<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/h02sCKL_x98BEO6Gx9ED']})" href="https://amzn.to/3iYubW8" target="_blank" rel="nofollow"><b>チョコ味</b></a>のみ購入可能です。<br>
 <br>
 
 | ランキング | ホエイプロテイン                             | ロイシン含有量g（タンパク質100gあたり）|
@@ -217,7 +218,7 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 
 ### <i class="fa fa-trophy"></i>ロイシンあたりの価格ランキング
 
-ロイシンあたりの価格が最も安いのは、<a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「X-PLOSION（エクスプロージョン）のプレーン味」</b></a>でした。<br>
+ロイシンあたりの価格が最も安いのは、<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/pM5QCK6L2d8BEO6Gx9ED']})" href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「X-PLOSION（エクスプロージョン）のプレーン味」</b></a>でした。<br>
 <br>
 
 | ランキング | ホエイプロテイン                             | 価格（ロイシン1gあたり）|
@@ -256,34 +257,34 @@ GOLD STANDARDの場合、<a href="https://massnutrition.com.au/products/optimum-
 <b>マップの右上のエリアがコスパが良いエリア</b>になります。<br>
 マップを見て分かる通り、WPCホエイプロテインでは、<b>X-PLOSION</b>、<b>MYPROTEIN Impact</b>あたりがコスパが良いと言えます。<br>
 <br>
-一方、WPIでは<b><a href="https://jp.iherb.com/pr/muscletech-nitro-tech-100-whey-gold-double-rich-chocolate-2-24-lbs-1-02-kg/70423?rcode=SLW545" target="_blank" rel="nofollow">NITRO TECH WHEY GOLD</a></b>がお買い求めやすくなっています。<br>
+一方、WPIでは<b><a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/39GZCKKI2d8BEO6Gx9ED']})" href="https://jp.iherb.com/pr/muscletech-nitro-tech-100-whey-gold-double-rich-chocolate-2-24-lbs-1-02-kg/70423?rcode=SLW545" target="_blank" rel="nofollow">NITRO TECH WHEY GOLD</a></b>がお買い求めやすくなっています。<br>
 <br>
 WPCとWPIの違いについては、<a href="/post/whey-protein-manufacturing/"><b>「ホエイプロテインのコンセントレートとアイソレートって何が違うの？」</b></a>で詳しく説明しているので、よかったら見てみてください。<br>
 <br>
 
 #### <i class="fa fa-check"></i>X-PLOSION（プレーン）
 安さと品質の高さを兼ね備えているの特徴です。プレーンが最もコスパが高いですが、それ以外の味でも十分コスパが高いです。<br>
-<a href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「Amazon（アマゾン）」</b></a>で購入することができます。<br>
+<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/XHyZCJCFyN8BEO6Gx9ED']})" href="https://amzn.to/2BSM5c5" target="_blank" rel="nofollow"><b>「Amazon（アマゾン）」</b></a>で購入することができます。<br>
 <br>
 #### <i class="fa fa-check"></i>X-PLOSION（味付き）
 X-PLOSIONのプレーンよりはコスパは劣りますが、それでも大変コスパが高いです。<br>
 <b>プロテイン初心者の方や、美味しく飲みたいという方</b>は味付きもとてもおすすめです。<br>
-X-PLOSIONの味付きの中でおすすめなのは、人気ランキング2位で、筆者の個人的な感想では1位の<a href="https://amzn.to/2P8Efy5" target="_blank" rel="nofollow"><b>ブルーベリー味</b></a>と、人気ランキング1位で安定の美味しさの<a href="https://amzn.to/306Udz0" target="_blank" rel="nofollow"><b>ミルクチョコレート味</b></a>です。<br>
+X-PLOSIONの味付きの中でおすすめなのは、人気ランキング2位で、筆者の個人的な感想では1位の<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/AFJ4CNyGyN8BEO6Gx9ED']})" href="https://amzn.to/2P8Efy5" target="_blank" rel="nofollow"><b>ブルーベリー味</b></a>と、人気ランキング1位で安定の美味しさの<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/ssIHCLzTu98BEO6Gx9ED']})" href="https://amzn.to/306Udz0" target="_blank" rel="nofollow"><b>ミルクチョコレート味</b></a>です。<br>
 <br>
 #### <i class="fa fa-check"></i>MYPROTEIN Impact（マイプロテイン インパクト）
 価格の割にロイシン含有量が多く、味も美味しいので、<b>初心者の方でも飲みやすい</b>のが特徴です。<br>
 定期的にセールをやっている（ゾロ目の日など）ので、そのタイミングで購入すると、さらにコスパが高くなります（30%以上のセールで最もコスパが高くなります）。<br>
-<a href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「公式サイト」</b></a>
+<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/x-4BCPKW2d8BEO6Gx9ED']})" href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「公式サイト」</b></a>
 <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">
-があるので、そこで購入するのが良いでしょう（はじめてMYPROTEINで購入する方は、<a href="https://www.myprotein.jp/accountCreate.account?applyCode=99PM-R1" target="_blank" rel="nofollow">こちら</a>から登録していただければ1,000円割引になります）。<br>
+があるので、そこで購入するのが良いでしょう（はじめてMYPROTEINで購入する方は、<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/x-4BCPKW2d8BEO6Gx9ED']})" href="https://www.myprotein.jp/accountCreate.account?applyCode=99PM-R1" target="_blank" rel="nofollow">こちら</a>から登録していただければ1,000円割引になります）。<br>
 <br>
 セールや味に関する情報は、<a href="/post/review-myprotein/"><b>「マイプロテインのコスパを他社と徹底比較！セール時期や人気の味まで」</b></a>にもう少し詳しく書いてあります。
 <br>
 <br>
-#### <i class="fa fa-check"></i>NITRO TECH WHET GOLD（ダブルリッチチョコレート）
+#### <i class="fa fa-check"></i>NITRO TECH WHEY GOLD（ダブルリッチチョコレート）
 WPIの割に価格が安いのが特徴です。<br>
 牛乳でお腹を壊してしまう人にはWPIをおすすめします。<br>
-<a href="https://jp.iherb.com/pr/muscletech-nitro-tech-100-whey-gold-double-rich-chocolate-2-24-lbs-1-02-kg/70423?rcode=SLW545" target="_blank" rel="nofollow"><b>「iHerb（アイハーブ）」</b></a>が最も安く購入できると思います。
+<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/7vSTCOHUu98BEO6Gx9ED']})" href="https://jp.iherb.com/pr/muscletech-nitro-tech-100-whey-gold-double-rich-chocolate-2-24-lbs-1-02-kg/70423?rcode=SLW545" target="_blank" rel="nofollow"><b>「iHerb（アイハーブ）」</b></a>が最も安く購入できると思います。
 <br>
 <br>
 おすすめのプロテイン紹介は以上です。  

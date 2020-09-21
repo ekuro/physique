@@ -40,8 +40,8 @@ keywords: [ "プロテイン", "選び方", "ポジショニングマップ", "�
 <br>
 <br>
 続く<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/7kgsCP_82N8BEO6Gx9ED']})" href="https://px.a8.net/svt/ejp?a8mat=3BG5JH+7MGVFE+45DI+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.myprotein.jp%2Fsports-nutrition%2Fimpact-whey-protein%2F10530943.html" target="_blank" rel="nofollow"><b>「MYPROTEIN Impact」</b></a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BG5JH+7MGVFE+45DI+BW8O2" alt="">はセール中だと最もコスパがよくなることもあるので、お買い求めの際はMYPROTEINのセールが開催されているかも確認してみてください。<br>
-<b>30%以上のセール</b>が行われていると、「MYPROTEIN Impact（ノンフレーバー）」の方が「X-PLOSION（エクスプロージョン）のプレーン味」よりもコスパが良くなります。<br><br>
-※ 最近MYPROTEINに虫が入っているという事件が起きました。品質が気になる方は、X-PLOSIONなど国産のものをおすすめします。<br>
+<b>30%以上のセール</b>が行われていると、「MYPROTEIN Impact（ノンフレーバー）」の方が「X-PLOSION（エクスプロージョン）のプレーン味」よりもコスパが良くなります。<br>
+<small>※ 最近MYPROTEINに虫が入っているという事件が起きました。品質が気になる方は、X-PLOSIONなど国産のものをおすすめします。</small><br>
 <br>
 続いて、これらのコスパの根拠について説明する前に、プロテインを選ぶ際に見るべきポイントについて解説します。<br>
 そんなことより早く根拠となるデータが見たいという方は、<a href="/post/protein-positioning-map/#コスパの良いプロテインランキング">コスパの良いプロテインランキング</a>までスキップしてください。

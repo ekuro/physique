@@ -209,6 +209,17 @@ ul.focus {
     padding-left: 0px;
     margin-top: 10px;
   }
+  table.rakuten td {
+    display: block;
+    width: 100%;
+  }
+}
+table.rakuten th, table.rakuten td {
+  padding: 0px;
+  border: none;
+}
+table.rakuten div.rakuten-div {
+  width: 100% !important;
 }
 
 .small {
@@ -258,4 +269,10 @@ blockquote a.author {
   font-style: normal;
   text-decoration: none;
   border-bottom: 1px dashed;
+}
+
+.summary {
+  border: dashed 1px #2b88e4;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }

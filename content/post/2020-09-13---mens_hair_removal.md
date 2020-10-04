@@ -141,6 +141,6 @@ IPL脱毛を行っており、スタッフさんの対応も大変良いサロ�
 Amazonのベストセラー商品は、価格も安いので、光脱毛の感覚をつかみたいという方にはおすすめです。<br>
 <br>
 
-<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/NAt-COyHyN4BEO6Gx9ED'']})" href="https://amzn.to/3nfA4A9" target="_blank">Amazonでベストセラーの脱毛器</a>
+<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/NAt-COyHyN4BEO6Gx9ED'']})" href="https://amzn.to/3nfA4A9" target="_blank">【Amazonベストセラー】2019最新版 脱毛器 レーザー 永久脱毛 IPL光脱毛器</a>
 <br>
 <br>

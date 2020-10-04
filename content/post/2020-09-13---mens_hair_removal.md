@@ -137,13 +137,10 @@ IPL脱毛を行っており、スタッフさんの対応も大変良いサロ�
 メリットとしては、<b>1万円程度で器具を購入すれば好きな時に脱毛できる</b>ということです。<br>
 デメリットは、<b>パワーが弱く効果を感じにくいため、進捗がなかなか感じられにくくモチベーションが続かないこと</b>です。<br>
 私自身も脱毛器具を購入して続けていた時期がありましたが、継続できずに家の奥にしまったままになっています。<br>
-続ける自信があるという方は一度試してみてもいいかもしれません。<br>
 <br>
-Amazonのベストセラー商品は、かなり評価が高い上に、価格も安いので良さそうですね。<br>
+Amazonのベストセラー商品は、価格も安いので、光脱毛の感覚をつかみたいという方にはおすすめです。<br>
 <br>
 
-<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/NAt-COyHyN4BEO6Gx9ED'']})" href="https://amzn.to/33nqUZr" target="_blank">【ベストセラー1位】2020新販売 脱毛器 レーザー脱毛器（価格: ¥8,999）</a>
-<br>
-<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/NAt-COyHyN4BEO6Gx9ED'']})" href="https://www.amazon.co.jp/2020%E6%96%B0%E8%B2%A9%E5%A3%B2-%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E8%84%B1%E6%AF%9B%E5%99%A8-IPL%E5%85%89%E8%84%B1%E6%AF%9B%E5%99%A8-%E8%87%AA%E5%8B%95%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5-5%E6%AE%B5%E9%9A%8E%E8%AA%BF%E6%95%B4%E5%8F%AF%E8%83%BD/dp/B087PVLNGF/ref=as_li_ss_il?_encoding=UTF8&psc=1&refRID=7KEKSHRATSCSQXCEXF12&linkCode=li3&tag=ekuro-22&linkId=d613e2a49a735fcdcfdad2014e791ddb&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B087PVLNGF&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=ekuro-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=ekuro-22&language=ja_JP&l=li3&o=9&a=B087PVLNGF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/NAt-COyHyN4BEO6Gx9ED'']})" href="https://amzn.to/3nfA4A9" target="_blank">Amazonでベストセラーの脱毛器</a>
 <br>
 <br>

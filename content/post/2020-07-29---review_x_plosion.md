@@ -1,6 +1,6 @@
 ---
 title: "【経験談あり】エクスプロージョンの評価とおすすめの味を徹底解説！"
-description: "「X-PLOSION（エクスプロージョン）を購入するか迷っている」「評判はどうなんだろう」「どの味を買えばいいんだろう」と悩んではいませんか？今回はX-PLOSIONの評判についてのまとめや、おすすめの味や効果的な飲み方について経験談を交えて徹底解説します。是非購入時の参考にしていただければと思います。"
+description: "「X-PLOSION（エクスプロージョン）を購入するか迷っている」「評判はどうなんだろう」「どの味を買えばいいんだろう」と悩んではいませんか？今回はX-PLOSIONの評判についてのまとめや、おすすめの味について経験談を交えて徹底解説します。是非購入時の参考にしていただければと思います。"
 thumbnail: '/images/xplosion_chocorate.jpg'
 date: 2020-07-29T10:00:00+09:00
 slug: review-x-plosion
@@ -17,19 +17,19 @@ keywords: [ "プロテイン", "コスパ", "レビュー", "味" ]
 <br>
 <br>
 
-X-PLOSION（エクスプロージョン）を購入するか迷っている方、どの味を買うか迷っている方向け。<br>
+今回は、X-PLOSION（エクスプロージョン）を購入するか迷っている方、どの味を買うか迷っている方向けにX-PLOSION（エクスプロージョン）の解説記事を書きました。<br>
 <br>
-本記事では、<b>話題のX-PLOSION（エクスプロージョン）についてあらゆる面から徹底解説しました。</b>
-人気の味についても公式にお問い合わせて確認したので、購入を予定している人は是非ご覧ください。<br>
+X-PLOSION（エクスプロージョン）の<b>評価</b>や、<b>人気の味</b>、<b>どこで買うのがお得か</b>についての記事になりますので、購入を考えている方は是非ご覧ください。<br>
 <br>
 
 ## 筆者の紹介
 
-私は、約15年間質のいいプロテインを探し続けてきました。<br>
-そこで得た知識をもとに、IT企業のエンジニア向けの筋トレ部の設立やエンジニア健康サミットの主催をしています。<br>
-<br>
-今回は少しでも多くの人に、今もっともおすすめしたいプロテインについて紹介させていただこうと思っています。
-最後までご覧いただけると幸いです。<br>
+<ul class="focus">
+  <li>トレーニング歴15年</li>
+  <li>IT企業のエンジニア向けにトレーニング指導</li>
+  <li>エンジニア健康サミットを定期開催</li>
+</ul>
+
 <br>
 
 ## X-PLOSION（エクスプロージョン）とは
@@ -39,44 +39,40 @@ X-PLOSION（エクスプロージョン）は、<b>「世界一の最安値」�
 
 ### <i class="fa fa-check"></i>品質やコスパについて
 
-結論から言うと、X-PLOSION（エクスプロージョン）は<b>コスパに関しては全プロテインの中で最高レベル</b>です。<br>
+結論から言うと、X-PLOSION（エクスプロージョン）は<b>コスパに関しては国内・国外のプロテインと比較しても最高レベル</b>です。<br>
 <br>
-以下の図は、横軸を<b>ロイシン含有量</b>、縦軸を<b>たんぱく質あたりの価格</b>として、様々なホエイプロテインを配置したものです。<br>
-ロイシン含有量は筋力アップを目的とするならもっとも注目すべき値で、<b>右上にあるほど価格に対して質が高いプロテイン</b>になります。<br>
+以下の図は、<b>ロイシン含有量</b>と<b>たんぱく質あたりの価格</b>を比較して並べたものです。<br>
+<b>右上にあるプロテインほど価格に対して質が高いプロテイン</b>になります。<br>
 <br>
 <br>
 
 <img width="720px" src="/images/protein-positioning-map-focus-x-plosion.png" />
 <p class="small"><a href="/post/protein-positioning-map/" target="_blank">コスパ最強のプロテインが決定！おすすめプロテイン20種を徹底比較</a>より</p>
+<br>
+
+※ <i>調べて欲しいプロテインがあったらご連絡ください。 <a href="https://twitter.com/physique_engine" target="_blank">@physique_engine</a></i>
+<br>
 
 <br>
 
-プロテインによっては味付きだと品質が下がってしまうものもありますが、<b>X-PLOSION（エクスプロージョン）は、味付きでもかなりの高コスパ</b>です。<br>
-ここまで推すとX-PLOSION社の回し者と思われそうですが、単純な分析結果で定量的な判断なので、仕方ないです。<br>
-<br>
-最終的には、<a href="#人気の味ランキング">人気の味ランキング</a>を参考にしていただきながら、お好みの味を選んでいただくのが良いでしょう。<br>
-<br>
-
-
-### <i class="fa fa-check"></i>口コミやレビューの紹介
-
-楽天とAmazonで口コミやレビューを紹介します。<br>
-どちらのサイトでも評価は高く、<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/5bDcCPucl-EBEO6Gx9ED']})" href="https://a.r10.to/hlTLwL" target="_blank" rel="nofollow"><b>楽天</b></a>では5段階評価で<b>4.53（131件）</b>、<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/xOhdCLjQi-EBEO6Gx9ED']})" href="https://amzn.to/306Udz0" target="_blank" rel="nofollow"><b>Amazon</b></a>では5段階評価中<b>4.3（2,398件）</b>という評価でした。<br>
-<br>
-ポジティブな意見としては、<b>「美味しくて飲みやすい」「コスパが高い」</b>という意見が多く、ネガティブな意見としては、<b>「梱包が雑」「人工甘味料的な甘さが苦手」</b>というものでした。<br>
+<b>X-PLOSION（エクスプロージョン）は、プレーンだけではなく、味付きでもコスパが高い</b>のが特徴です。<br>
+プレーンの方が栄養摂取の面で優れているので、プロテインに慣れている方はプレーン、続けられるか心配な方は味付きを選ぶようにしましょう。<br>
+味付きの場合は、個人的には<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/RX7sCMyf8eEBEO6Gx9ED']})" href="https://amzn.to/2P8Efy5" target="_blank" rel="nofollow"><b>ブルーベリー味</b></a>がおすすめです。<br>
+本社にお問い合わせをして教えてもらった<a href="#人気の味ランキング">人気の味ランキング</a>も参考になれば幸いです。<br>
 <br>
 
 ### <i class="fa fa-check"></i>実際に飲んでみた感想
-甘いという意見もあるX-PLOSION（エクスプロージョン）ですが、個人的な感想としては、<b>MYPROTEIN（マイプロテイン）やGOLD STANDARD（ゴールドスタンダード）と比べるとスッキリした甘さ</b>という印象です。<br>
-また、MYPROTEINやGOLD STANDARDに比べると<b>溶けるスピードが早くダマになりにくい</b>ので、一番快適に飲むことができます。<br>
-さらに、後で紹介させていただきますが、酸味のある<a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/wQOBCIPUi-EBEO6Gx9ED']})" href="https://amzn.to/2P8Efy5" target="_blank" rel="nofollow">ブルーベリー味</a>は運動後でもすんなり飲めるので、甘ったるいのが苦手という方は酸味系の味を選べば大丈夫です。<br>
+
+特徴を一言で表すと、<b>「溶けやすく、サラッとした飲み口」</b>です。<br>
+Amazonや楽天の口コミを見ていると、甘ったるいという意見もありますが、一通りの味を飲んでみた私の感想としては、<b>海外製のプロテインに比べるとさっぱりしている印象</b>です。<br>
+酸味系の味も豊富なので、甘いのが苦手という方は<b>味の選択をミスらなければ大丈夫</b>だと思います。<br>
+また、さっぱりした飲み口の通り、粉自体も<b>かなり溶けやすくダマがほとんどできない</b>のが印象的です。<br>
 <br>
 
 ## 人気の味ランキング
 
-X-PLOSIONは味付きでもタンパク質含有量のコスパが十分に高いので、プレーンを飲み続けるのが辛いという方は是非味付きを検討してみてください。<br>
-ここでは、公式にお問い合わせをした結果分かった<b>人気の味ランキング</b>をご紹介します。<br>
-結論から言うと、ランキングは以下の通りでした。<br>
+次に、公式にお問い合わせをした結果分かった<b>人気の味ランキング</b>をご紹介します。<br>
+結論から言うと、ランキングベスト3は以下の通りでした。<br>
 <br>
 
 <ol class="summary">
@@ -87,8 +83,8 @@ X-PLOSIONは味付きでもタンパク質含有量のコスパが十分に高�
 
 <br>
 
-<b>個人的な感想では、1位のミルクチョコレートより、2位のブルーベリー味が好きです。</b><br>
-ブルーベリー味は、ブルーベリーヨーグルトに近い味で、酸味が得意でない私でも、さっぱり飲むことができてドハマリしています。<br>
+<b>個人的な感想としては、1位のミルクチョコレートより、2位のブルーベリー味が好きです。</b><br>
+ブルーベリー味は、ブルーベリーヨーグルトに近い味で、酸味が得意でない私でも、さっぱり飲むことができてハマっています。<br>
 <br>
 
 ### <i class="fa fa-trophy"></i>1位 ミルクチョコレート味
@@ -133,8 +129,8 @@ X-PLOSIONは味付きでもタンパク質含有量のコスパが十分に高�
 <img width="640px" src="/images/xplosion_chart.jpg" />
 <br>
 
-楽天では、お試し300gパックも売られています。<br>
-どの味を買うか迷っている方は、以下に各味のお試しパックのリンクを貼っておきます（プレーンのお試しパックはないみたいです）。<br>
+<b>楽天では、お試し300gパックも売られている</b>ので、どの味を買うか迷っている方は、楽天で購入するのをおすすめします。<br>
+※ プレーンのお試しパックはないようです。<br>
 <br>
 
 <a onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/pJvdCJq_l-EBEO6Gx9ED']})" href="https://a.r10.to/hlT5lS" target="_blank" rel="nofollow">>> ミルクチョコレート（お試し300g）</a><br>
@@ -158,3 +154,12 @@ X-PLOSIONは味付きでもタンパク質含有量のコスパが十分に高�
 <br>
 <br>
 <br>
+
+<div class="sticky-area">
+  <a class="amazon" style="margin-right: 10px" onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/8szcCICsjOIBEO6Gx9ED']})" class="clearfix inline-block" href='https://amzn.to/306Udz0' rel="nofollow">
+    <img src='/images/amazon_logo.gif' alt='amazon logo' />
+  </a>
+  <a class="rakuten" onclick="window.gtag('event', 'conversion', { send_to: ['AW-976339822/QWvNCLOh8eEBEO6Gx9ED']})" class="clearfix inline-block" href='https://a.r10.to/hlTLwL' rel="nofollow">
+    <img src='/images/rakuten_logo.gif' alt='rakuten logo' />
+  </a>
+</div>

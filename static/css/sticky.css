@@ -1,0 +1,72 @@
+@charset "UTF-8";
+
+.sticky-area {
+  position: sticky;
+  text-align: right;
+  bottom: 40px;
+  z-index: 100;
+}
+
+.sticky-area a {
+  border-radius: 46px;
+  padding: 5px 16px;
+  display: inline-block;
+  line-height: 36px;
+  font-weight: 600;
+  text-decoration: none !important;
+}
+
+.sticky-area img {
+  float: left;
+  height: 36px;
+  margin-right: 8px;
+}
+
+.sticky-area a.amazon {
+  background: #fff;
+  color: #333 !important;
+  border: 3px solid #F49C00;
+}
+
+.sticky-area a.amazon img {
+  width: 100px;
+  height: auto;
+  margin-top: 7px;
+}
+
+.sticky-area a.rakuten {
+  background: #fff;
+  color: #333 !important;
+  border: 3px solid #C3172D;
+}
+
+.sticky-area a.rakuten img {
+  width: 100px;
+  height: auto;
+  margin-top: 7px;
+}
+
+.sticky-area a.amazon::after {
+  content: 'Amazondで購入';
+}
+
+.sticky-area a.rakuten::after {
+  content: '楽天で購入';
+}
+
+@media screen and (max-width:480px) {
+  .sticky-area a {
+    padding: 5px 12px;
+    font-size: 13px;
+  }
+  .sticky-area a.amazon::after {
+    content: '確認';
+  }
+  .sticky-area a.rakuten::after {
+    content: '確認';
+  }
+  .sticky-area a.amazon img,
+  .sticky-area a.rakuten img {
+    width: 60px;
+  }
+}
